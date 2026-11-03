@@ -1,0 +1,1976 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20262.26.0603.1643                               -->
+<workbook original-version='18.1' source-build='2026.2.0 (20262.26.0603.1643)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <AnimationOnByDefault />
+    <MarkAnimation />
+    <ObjectModelEncapsulateLegacy />
+    <ObjectModelExtractV2 />
+    <ObjectModelTableType />
+    <SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <VConnDownstreamExtractsWithWarnings />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='customer_survey_data' inline='true' name='federated.12694hm03q5llc139vah40fip0uw' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='customer_survey_data' name='textscan.08yrbr1169ypun1d1tr7s0kzhdcy'>
+            <connection class='textscan' directory='D:/Managed Workspace/Project/Customer Experience Survey Analytics/Data Set' filename='customer_survey_data.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.08yrbr1169ypun1d1tr7s0kzhdcy' name='customer_survey_data.csv' table='[customer_survey_data#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='string' name='respondent_id' ordinal='0' />
+            <column datatype='integer' name='age' ordinal='1' />
+            <column datatype='string' name='gender' ordinal='2' />
+            <column datatype='string' name='city' ordinal='3' />
+            <column datatype='string' name='state' ordinal='4' />
+            <column datatype='date' date-parse-format='EEEE, MMMM dd, yyyy' name='survey_date' ordinal='5' />
+            <column datatype='string' name='product_purchased' ordinal='6' />
+            <column datatype='string' name='purchase_channel' ordinal='7' />
+            <column datatype='real' name='satisfaction_score' ordinal='8' />
+            <column datatype='integer' name='nps_score' ordinal='9' />
+            <column datatype='integer' name='delivery_rating' ordinal='10' />
+            <column datatype='integer' name='support_rating' ordinal='11' />
+            <column datatype='integer' name='monthly_spend_inr' ordinal='12' />
+            <column datatype='string' name='income_band' ordinal='13' />
+            <column datatype='string' name='competitors_used' ordinal='14' />
+            <column datatype='string' name='referred_by' ordinal='15' />
+            <column datatype='string' name='would_recommend' ordinal='16' />
+            <column datatype='string' name='feedback_comment' ordinal='17' />
+            <column datatype='string' name='Age_Group' ordinal='18' />
+            <column datatype='string' name='survey_month' ordinal='19' />
+            <column datatype='string' name='nps_category' ordinal='20' />
+            <column datatype='boolean' name='delivery_missing' ordinal='21' />
+            <column datatype='integer' name='Amazon' ordinal='22' />
+            <column datatype='integer' name='Croma' ordinal='23' />
+            <column datatype='integer' name='Flipkart' ordinal='24' />
+            <column datatype='integer' name='Meesho' ordinal='25' />
+            <column datatype='integer' name='Reliance Digital' ordinal='26' />
+            <column datatype='integer' name='Tata Cliq' ordinal='27' />
+            <column datatype='integer' name='Unknown' ordinal='28' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[customer_survey_data.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>respondent_id</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[respondent_id]</local-name>
+            <parent-name>[customer_survey_data.csv]</parent-name>
+            <remote-alias>respondent_id</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>age</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[age]</local-name>
+            <parent-name>[customer_survey_data.csv]</parent-name>
+            <remote-alias>age</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>gender</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[gender]</local-name>
+            <parent-name>[customer_survey_data.csv]</parent-name>
+            <remote-alias>gender</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>city</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[city]</local-name>
+            <parent-name>[customer_survey_data.csv]</parent-name>
+            <remote-alias>city</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>state</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[state]</local-name>
+            <parent-name>[customer_survey_data.csv]</parent-name>
+            <remote-alias>state</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>survey_date</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[survey_date]</local-name>
+            <parent-name>[customer_survey_data.csv]</parent-name>
+            <remote-alias>survey_date</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>product_purchased</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[product_purchased]</local-name>
+            <parent-name>[customer_survey_data.csv]</parent-name>
+            <remote-alias>product_purchased</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>purchase_channel</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[purchase_channel]</local-name>
+            <parent-name>[customer_survey_data.csv]</parent-name>
+            <remote-alias>purchase_channel</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>satisfaction_score</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[satisfaction_score]</local-name>
+            <parent-name>[customer_survey_data.csv]</parent-name>
+            <remote-alias>satisfaction_score</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>nps_score</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[nps_score]</local-name>
+            <parent-name>[customer_survey_data.csv]</parent-name>
+            <remote-alias>nps_score</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>delivery_rating</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[delivery_rating]</local-name>
+            <parent-name>[customer_survey_data.csv]</parent-name>
+            <remote-alias>delivery_rating</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>support_rating</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[support_rating]</local-name>
+            <parent-name>[customer_survey_data.csv]</parent-name>
+            <remote-alias>support_rating</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>monthly_spend_inr</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[monthly_spend_inr]</local-name>
+            <parent-name>[customer_survey_data.csv]</parent-name>
+            <remote-alias>monthly_spend_inr</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>income_band</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[income_band]</local-name>
+            <parent-name>[customer_survey_data.csv]</parent-name>
+            <remote-alias>income_band</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>competitors_used</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[competitors_used]</local-name>
+            <parent-name>[customer_survey_data.csv]</parent-name>
+            <remote-alias>competitors_used</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>referred_by</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[referred_by]</local-name>
+            <parent-name>[customer_survey_data.csv]</parent-name>
+            <remote-alias>referred_by</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>would_recommend</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[would_recommend]</local-name>
+            <parent-name>[customer_survey_data.csv]</parent-name>
+            <remote-alias>would_recommend</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>feedback_comment</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[feedback_comment]</local-name>
+            <parent-name>[customer_survey_data.csv]</parent-name>
+            <remote-alias>feedback_comment</remote-alias>
+            <ordinal>17</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Age_Group</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Age_Group]</local-name>
+            <parent-name>[customer_survey_data.csv]</parent-name>
+            <remote-alias>Age_Group</remote-alias>
+            <ordinal>18</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>survey_month</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[survey_month]</local-name>
+            <parent-name>[customer_survey_data.csv]</parent-name>
+            <remote-alias>survey_month</remote-alias>
+            <ordinal>19</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>nps_category</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[nps_category]</local-name>
+            <parent-name>[customer_survey_data.csv]</parent-name>
+            <remote-alias>nps_category</remote-alias>
+            <ordinal>20</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>delivery_missing</remote-name>
+            <remote-type>11</remote-type>
+            <local-name>[delivery_missing]</local-name>
+            <parent-name>[customer_survey_data.csv]</parent-name>
+            <remote-alias>delivery_missing</remote-alias>
+            <ordinal>21</ordinal>
+            <local-type>boolean</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Amazon</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Amazon]</local-name>
+            <parent-name>[customer_survey_data.csv]</parent-name>
+            <remote-alias>Amazon</remote-alias>
+            <ordinal>22</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Croma</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Croma]</local-name>
+            <parent-name>[customer_survey_data.csv]</parent-name>
+            <remote-alias>Croma</remote-alias>
+            <ordinal>23</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Flipkart</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Flipkart]</local-name>
+            <parent-name>[customer_survey_data.csv]</parent-name>
+            <remote-alias>Flipkart</remote-alias>
+            <ordinal>24</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Meesho</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Meesho]</local-name>
+            <parent-name>[customer_survey_data.csv]</parent-name>
+            <remote-alias>Meesho</remote-alias>
+            <ordinal>25</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Reliance Digital</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Reliance Digital]</local-name>
+            <parent-name>[customer_survey_data.csv]</parent-name>
+            <remote-alias>Reliance Digital</remote-alias>
+            <ordinal>26</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Tata Cliq</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Tata Cliq]</local-name>
+            <parent-name>[customer_survey_data.csv]</parent-name>
+            <remote-alias>Tata Cliq</remote-alias>
+            <ordinal>27</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Unknown</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Unknown]</local-name>
+            <parent-name>[customer_survey_data.csv]</parent-name>
+            <remote-alias>Unknown</remote-alias>
+            <ordinal>28</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Age Group' datatype='string' name='[Age_Group]' role='dimension' type='nominal' />
+      <column caption='Total respondents' datatype='integer' name='[Calculation_0370047422791680]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='COUNTD([respondent_id])' />
+      </column>
+      <column caption='Nps_Score' datatype='real' name='[Calculation_0370047423893505]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='(&#13;&#10;  COUNT(IF [nps_score] &gt;= 9 THEN [nps_score] END)&#13;&#10;  -&#13;&#10;  COUNT(IF [nps_score] &lt;= 6 THEN [nps_score] END)&#13;&#10;)&#13;&#10;/&#13;&#10;COUNT([nps_score])&#13;&#10;* 100' />
+      </column>
+      <column caption='Would_Recommend' datatype='real' default-format='p0.00%' name='[Calculation_0370047424139266]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='COUNT(IF [would_recommend] = &quot;Yes&quot; THEN [would_recommend] END)&#13;&#10;/&#13;&#10;COUNT([would_recommend])' />
+      </column>
+      <column caption='customer_survey_data.csv' datatype='table' name='[__tableau_internal_object_id__].[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]' role='measure' type='quantitative' />
+      <column caption='Age' datatype='integer' name='[age]' role='measure' type='quantitative' />
+      <column caption='City' datatype='string' name='[city]' role='dimension' semantic-role='[City].[Name]' type='nominal' />
+      <column caption='Competitors Used' datatype='string' name='[competitors_used]' role='dimension' type='nominal' />
+      <column caption='Delivery Missing' datatype='boolean' name='[delivery_missing]' role='dimension' type='nominal' />
+      <column caption='Delivery Rating' datatype='integer' name='[delivery_rating]' role='measure' type='quantitative' />
+      <column caption='Feedback Comment' datatype='string' name='[feedback_comment]' role='dimension' type='nominal' />
+      <column caption='Gender' datatype='string' name='[gender]' role='dimension' type='nominal' />
+      <column caption='Income Band' datatype='string' name='[income_band]' role='dimension' type='nominal' />
+      <column caption='Monthly Spend Inr' datatype='integer' name='[monthly_spend_inr]' role='measure' type='quantitative' />
+      <column caption='Nps Category' datatype='string' name='[nps_category]' role='dimension' type='nominal' />
+      <column caption='Nps Score' datatype='integer' name='[nps_score]' role='measure' type='quantitative' />
+      <column caption='Product Purchased' datatype='string' name='[product_purchased]' role='dimension' type='nominal' />
+      <column caption='Purchase Channel' datatype='string' name='[purchase_channel]' role='dimension' type='nominal' />
+      <column caption='Referred By' datatype='string' name='[referred_by]' role='dimension' type='nominal' />
+      <column caption='Respondent Id' datatype='string' name='[respondent_id]' role='dimension' type='nominal' />
+      <column caption='Satisfaction Score' datatype='real' name='[satisfaction_score]' role='measure' type='quantitative' />
+      <column caption='State' datatype='string' name='[state]' role='dimension' semantic-role='[State].[Name]' type='nominal' />
+      <column caption='Support Rating' datatype='integer' name='[support_rating]' role='measure' type='quantitative' />
+      <column caption='Survey Date' datatype='date' datatype-customized='true' name='[survey_date]' role='dimension' type='ordinal' />
+      <column caption='Survey Month' datatype='string' name='[survey_month]' role='dimension' type='nominal' />
+      <column caption='Would Recommend' datatype='string' name='[would_recommend]' role='dimension' type='nominal' />
+      <column-instance column='[purchase_channel]' derivation='None' name='[none:purchase_channel:nk]' pivot='key' type='nominal' />
+      <drill-paths>
+        <drill-path name='state, city'>
+          <field>[state]</field>
+          <field>[city]</field>
+        </drill-path>
+      </drill-paths>
+      <extract count='-1' enabled='true' object-id='' units='records' user-specific='false'>
+        <connection access_mode='readonly' author-locale='en_US' class='hyper' dbname='C:/Users/Admin/AppData/Local/Temp/TableauTemp/#TableauTemp_0pel2mb0emg3t211k8np80cdl1vt.hyper' default-settings='hyper' schema='Extract' sslmode='' tablename='Extract' update-time='10/31/2026 04:10:21 PM' username='tableau_internal_user'>
+          <relation name='Extract' table='[Extract].[Extract]' type='table'>
+            <columns>
+              <column datatype='date' date-parse-format='EEEE, MMMM dd, yyyy' name='survey_date' />
+            </columns>
+          </relation>
+          <metadata-records>
+            <metadata-record class='column'>
+              <remote-name>respondent_id</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[respondent_id]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>respondent_id</remote-alias>
+              <ordinal>0</ordinal>
+              <family>customer_survey_data.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>490</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>age</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[age]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>age</remote-alias>
+              <ordinal>1</ordinal>
+              <family>customer_survey_data.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>49</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>gender</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[gender]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>gender</remote-alias>
+              <ordinal>2</ordinal>
+              <family>customer_survey_data.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>3</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>city</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[city]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>city</remote-alias>
+              <ordinal>3</ordinal>
+              <family>customer_survey_data.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>10</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>state</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[state]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>state</remote-alias>
+              <ordinal>4</ordinal>
+              <family>customer_survey_data.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>8</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>survey_date</remote-name>
+              <remote-type>7</remote-type>
+              <local-name>[survey_date]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>survey_date</remote-alias>
+              <ordinal>5</ordinal>
+              <family>customer_survey_data.csv</family>
+              <local-type>date</local-type>
+              <aggregation>Year</aggregation>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>product_purchased</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[product_purchased]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>product_purchased</remote-alias>
+              <ordinal>6</ordinal>
+              <family>customer_survey_data.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>6</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>purchase_channel</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[purchase_channel]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>purchase_channel</remote-alias>
+              <ordinal>7</ordinal>
+              <family>customer_survey_data.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>4</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>satisfaction_score</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[satisfaction_score]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>satisfaction_score</remote-alias>
+              <ordinal>8</ordinal>
+              <family>customer_survey_data.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>8</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>nps_score</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[nps_score]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>nps_score</remote-alias>
+              <ordinal>9</ordinal>
+              <family>customer_survey_data.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>11</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>delivery_rating</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[delivery_rating]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>delivery_rating</remote-alias>
+              <ordinal>10</ordinal>
+              <family>customer_survey_data.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>6</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>support_rating</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[support_rating]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>support_rating</remote-alias>
+              <ordinal>11</ordinal>
+              <family>customer_survey_data.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>6</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>monthly_spend_inr</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[monthly_spend_inr]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>monthly_spend_inr</remote-alias>
+              <ordinal>12</ordinal>
+              <family>customer_survey_data.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>472</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>income_band</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[income_band]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>income_band</remote-alias>
+              <ordinal>13</ordinal>
+              <family>customer_survey_data.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>competitors_used</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[competitors_used]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>competitors_used</remote-alias>
+              <ordinal>14</ordinal>
+              <family>customer_survey_data.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>116</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>referred_by</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[referred_by]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>referred_by</remote-alias>
+              <ordinal>15</ordinal>
+              <family>customer_survey_data.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>138</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>would_recommend</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[would_recommend]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>would_recommend</remote-alias>
+              <ordinal>16</ordinal>
+              <family>customer_survey_data.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>3</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>feedback_comment</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[feedback_comment]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>feedback_comment</remote-alias>
+              <ordinal>17</ordinal>
+              <family>customer_survey_data.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>11</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Age_Group</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Age_Group]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Age_Group</remote-alias>
+              <ordinal>18</ordinal>
+              <family>customer_survey_data.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>4</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>survey_month</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[survey_month]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>survey_month</remote-alias>
+              <ordinal>19</ordinal>
+              <family>customer_survey_data.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>9</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>nps_category</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[nps_category]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>nps_category</remote-alias>
+              <ordinal>20</ordinal>
+              <family>customer_survey_data.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>3</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>delivery_missing</remote-name>
+              <remote-type>11</remote-type>
+              <local-name>[delivery_missing]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>delivery_missing</remote-alias>
+              <ordinal>21</ordinal>
+              <family>customer_survey_data.csv</family>
+              <local-type>boolean</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Amazon</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Amazon]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Amazon</remote-alias>
+              <ordinal>22</ordinal>
+              <family>customer_survey_data.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Croma</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Croma]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Croma</remote-alias>
+              <ordinal>23</ordinal>
+              <family>customer_survey_data.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Flipkart</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Flipkart]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Flipkart</remote-alias>
+              <ordinal>24</ordinal>
+              <family>customer_survey_data.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Meesho</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Meesho]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Meesho</remote-alias>
+              <ordinal>25</ordinal>
+              <family>customer_survey_data.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Reliance Digital</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Reliance Digital]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Reliance Digital</remote-alias>
+              <ordinal>26</ordinal>
+              <family>customer_survey_data.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Tata Cliq</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Tata Cliq]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Tata Cliq</remote-alias>
+              <ordinal>27</ordinal>
+              <family>customer_survey_data.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Unknown</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Unknown]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Unknown</remote-alias>
+              <ordinal>28</ordinal>
+              <family>customer_survey_data.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3]</object-id>
+            </metadata-record>
+          </metadata-records>
+        </connection>
+      </extract>
+      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:purchase_channel:nk]' type='palette'>
+            <map to='#59504e'>
+              <bucket>&quot;App&quot;</bucket>
+            </map>
+            <map to='#8d8481'>
+              <bucket>&quot;Marketplace&quot;</bucket>
+            </map>
+            <map to='#b0a7a4'>
+              <bucket>&quot;Online&quot;</bucket>
+            </map>
+            <map to='#dcd4d0'>
+              <bucket>&quot;Store&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;India&quot;' />
+      </semantic-values>
+      <object-graph>
+        <objects>
+          <object caption='customer_survey_data.csv' id='customer_survey_data.csv_DFA3636E35E24A1D9C3A34866DF6F0C3'>
+            <properties context=''>
+              <relation connection='textscan.08yrbr1169ypun1d1tr7s0kzhdcy' name='customer_survey_data.csv' table='[customer_survey_data#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='string' name='respondent_id' ordinal='0' />
+                  <column datatype='integer' name='age' ordinal='1' />
+                  <column datatype='string' name='gender' ordinal='2' />
+                  <column datatype='string' name='city' ordinal='3' />
+                  <column datatype='string' name='state' ordinal='4' />
+                  <column datatype='date' date-parse-format='EEEE, MMMM dd, yyyy' name='survey_date' ordinal='5' />
+                  <column datatype='string' name='product_purchased' ordinal='6' />
+                  <column datatype='string' name='purchase_channel' ordinal='7' />
+                  <column datatype='real' name='satisfaction_score' ordinal='8' />
+                  <column datatype='integer' name='nps_score' ordinal='9' />
+                  <column datatype='integer' name='delivery_rating' ordinal='10' />
+                  <column datatype='integer' name='support_rating' ordinal='11' />
+                  <column datatype='integer' name='monthly_spend_inr' ordinal='12' />
+                  <column datatype='string' name='income_band' ordinal='13' />
+                  <column datatype='string' name='competitors_used' ordinal='14' />
+                  <column datatype='string' name='referred_by' ordinal='15' />
+                  <column datatype='string' name='would_recommend' ordinal='16' />
+                  <column datatype='string' name='feedback_comment' ordinal='17' />
+                  <column datatype='string' name='Age_Group' ordinal='18' />
+                  <column datatype='string' name='survey_month' ordinal='19' />
+                  <column datatype='string' name='nps_category' ordinal='20' />
+                  <column datatype='boolean' name='delivery_missing' ordinal='21' />
+                  <column datatype='integer' name='Amazon' ordinal='22' />
+                  <column datatype='integer' name='Croma' ordinal='23' />
+                  <column datatype='integer' name='Flipkart' ordinal='24' />
+                  <column datatype='integer' name='Meesho' ordinal='25' />
+                  <column datatype='integer' name='Reliance Digital' ordinal='26' />
+                  <column datatype='integer' name='Tata Cliq' ordinal='27' />
+                  <column datatype='integer' name='Unknown' ordinal='28' />
+                </columns>
+              </relation>
+            </properties>
+            <properties context='extract'>
+              <relation name='Extract' table='[Extract].[Extract]' type='table'>
+                <columns>
+                  <column datatype='date' date-parse-format='EEEE, MMMM dd, yyyy' name='survey_date' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='% Would recommend'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='customer_survey_data' name='federated.12694hm03q5llc139vah40fip0uw' />
+          </datasources>
+          <datasource-dependencies datasource='federated.12694hm03q5llc139vah40fip0uw'>
+            <column caption='Would_Recommend' datatype='real' default-format='p0.00%' name='[Calculation_0370047424139266]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='COUNT(IF [would_recommend] = &quot;Yes&quot; THEN [would_recommend] END)&#13;&#10;/&#13;&#10;COUNT([would_recommend])' />
+            </column>
+            <column-instance column='[Calculation_0370047424139266]' derivation='User' name='[usr:Calculation_0370047424139266:qk]' pivot='key' type='quantitative' />
+            <column caption='Would Recommend' datatype='string' name='[would_recommend]' role='dimension' type='nominal' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <text column='[federated.12694hm03q5llc139vah40fip0uw].[usr:Calculation_0370047424139266:qk]' />
+            </encodings>
+            <customized-label>
+              <formatted-text>
+                <run fontname='Tableau Medium' fontsize='11'>% Would recommend</run>
+                <run>Æ&#10;</run>
+                <run fontname='Tableau Semibold' fontsize='10'><![CDATA[<[federated.12694hm03q5llc139vah40fip0uw].[usr:Calculation_0370047424139266:qk]>]]></run>
+              </formatted-text>
+            </customized-label>
+            <style>
+              <style-rule element='cell'>
+                <format attr='text-align' value='center' />
+              </style-rule>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{7863CD09-D73A-4B08-9301-DE27A579461D}' />
+    </worksheet>
+    <worksheet name='Average monthly spend'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='customer_survey_data' name='federated.12694hm03q5llc139vah40fip0uw' />
+          </datasources>
+          <datasource-dependencies datasource='federated.12694hm03q5llc139vah40fip0uw'>
+            <column-instance column='[monthly_spend_inr]' derivation='Avg' name='[avg:monthly_spend_inr:qk]' pivot='key' type='quantitative' />
+            <column caption='Monthly Spend Inr' datatype='integer' name='[monthly_spend_inr]' role='measure' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='cell'>
+            <format attr='text-format' field='[federated.12694hm03q5llc139vah40fip0uw].[avg:monthly_spend_inr:qk]' value='n#,##0,.0K;-#,##0,.0K' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <text column='[federated.12694hm03q5llc139vah40fip0uw].[avg:monthly_spend_inr:qk]' />
+            </encodings>
+            <customized-label>
+              <formatted-text>
+                <run fontname='Tableau Medium' fontsize='11'>Average monthly spend</run>
+                <run>Æ&#10;</run>
+                <run fontname='Tableau Semibold' fontsize='10'><![CDATA[<[federated.12694hm03q5llc139vah40fip0uw].[avg:monthly_spend_inr:qk]>]]></run>
+              </formatted-text>
+            </customized-label>
+            <style>
+              <style-rule element='cell'>
+                <format attr='text-align' value='center' />
+              </style-rule>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{70F66111-FE83-47E4-B406-B9FA2D844939}' />
+    </worksheet>
+    <worksheet name='Average satisfaction'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='customer_survey_data' name='federated.12694hm03q5llc139vah40fip0uw' />
+          </datasources>
+          <datasource-dependencies datasource='federated.12694hm03q5llc139vah40fip0uw'>
+            <column-instance column='[satisfaction_score]' derivation='Avg' name='[avg:satisfaction_score:qk]' pivot='key' type='quantitative' />
+            <column caption='Satisfaction Score' datatype='real' name='[satisfaction_score]' role='measure' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='cell'>
+            <format attr='text-format' field='[federated.12694hm03q5llc139vah40fip0uw].[avg:satisfaction_score:qk]' value='n#,##0.00;-#,##0.00' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <text column='[federated.12694hm03q5llc139vah40fip0uw].[avg:satisfaction_score:qk]' />
+            </encodings>
+            <customized-label>
+              <formatted-text>
+                <run fontname='Tableau Medium' fontsize='11'>Average satisfaction</run>
+                <run>Æ&#10;</run>
+                <run fontname='Tableau Semibold' fontsize='10'><![CDATA[<[federated.12694hm03q5llc139vah40fip0uw].[avg:satisfaction_score:qk]>]]></run>
+              </formatted-text>
+            </customized-label>
+            <style>
+              <style-rule element='cell'>
+                <format attr='text-align' value='center' />
+              </style-rule>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{DD7BE7C8-9DAE-4B44-A833-0CD972F6FF46}' />
+    </worksheet>
+    <worksheet name='NPS score'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='customer_survey_data' name='federated.12694hm03q5llc139vah40fip0uw' />
+          </datasources>
+          <datasource-dependencies datasource='federated.12694hm03q5llc139vah40fip0uw'>
+            <column caption='Nps_Score' datatype='real' name='[Calculation_0370047423893505]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='(&#13;&#10;  COUNT(IF [nps_score] &gt;= 9 THEN [nps_score] END)&#13;&#10;  -&#13;&#10;  COUNT(IF [nps_score] &lt;= 6 THEN [nps_score] END)&#13;&#10;)&#13;&#10;/&#13;&#10;COUNT([nps_score])&#13;&#10;* 100' />
+            </column>
+            <column caption='Nps Score' datatype='integer' name='[nps_score]' role='measure' type='quantitative' />
+            <column-instance column='[Calculation_0370047423893505]' derivation='User' name='[usr:Calculation_0370047423893505:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <text column='[federated.12694hm03q5llc139vah40fip0uw].[usr:Calculation_0370047423893505:qk]' />
+            </encodings>
+            <customized-label>
+              <formatted-text>
+                <run fontname='Tableau Medium' fontsize='11'>NPS score</run>
+                <run>Æ&#10;</run>
+                <run fontname='Tableau Semibold' fontsize='10'><![CDATA[<[federated.12694hm03q5llc139vah40fip0uw].[usr:Calculation_0370047423893505:qk]>]]></run>
+              </formatted-text>
+            </customized-label>
+            <style>
+              <style-rule element='cell'>
+                <format attr='text-align' value='center' />
+              </style-rule>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{F03894CD-D77B-4161-B97B-9F8FEBD30A72}' />
+    </worksheet>
+    <worksheet name='Purchase channel share'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontalignment='1' fontcolor='#000000' fontname='Tableau Semibold' fontsize='12'>Purchase channel share</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='customer_survey_data' name='federated.12694hm03q5llc139vah40fip0uw' />
+          </datasources>
+          <datasource-dependencies datasource='federated.12694hm03q5llc139vah40fip0uw'>
+            <column caption='Total respondents' datatype='integer' name='[Calculation_0370047422791680]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='COUNTD([respondent_id])' />
+            </column>
+            <column-instance column='[purchase_channel]' derivation='None' name='[none:purchase_channel:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Calculation_0370047422791680]' derivation='User' name='[pcto:usr:Calculation_0370047422791680:qk]' pivot='key' type='quantitative'>
+              <table-calc ordering-type='Rows' type='PctTotal' />
+            </column-instance>
+            <column caption='Purchase Channel' datatype='string' name='[purchase_channel]' role='dimension' type='nominal' />
+            <column caption='Respondent Id' datatype='string' name='[respondent_id]' role='dimension' type='nominal' />
+            <column-instance column='[Calculation_0370047422791680]' derivation='User' name='[usr:Calculation_0370047422791680:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Pie' />
+            <encodings>
+              <color column='[federated.12694hm03q5llc139vah40fip0uw].[none:purchase_channel:nk]' />
+              <wedge-size column='[federated.12694hm03q5llc139vah40fip0uw].[usr:Calculation_0370047422791680:qk]' />
+              <text column='[federated.12694hm03q5llc139vah40fip0uw].[pcto:usr:Calculation_0370047422791680:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{8CE9CAE9-DF4A-4D92-8547-2D219988B79A}' />
+    </worksheet>
+    <worksheet name='Satisfaction trend by month'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontalignment='1' fontcolor='#000000' fontname='Tableau Semibold' fontsize='12'>Satisfaction trend by month</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='customer_survey_data' name='federated.12694hm03q5llc139vah40fip0uw' />
+          </datasources>
+          <datasource-dependencies datasource='federated.12694hm03q5llc139vah40fip0uw'>
+            <column-instance column='[satisfaction_score]' derivation='Avg' name='[avg:satisfaction_score:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[survey_date]' derivation='Month' name='[mn:survey_date:ok]' pivot='key' type='ordinal' />
+            <column caption='Satisfaction Score' datatype='real' name='[satisfaction_score]' role='measure' type='quantitative' />
+            <column caption='Survey Date' datatype='date' datatype-customized='true' name='[survey_date]' role='dimension' type='ordinal' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' domain-expand='false' field='[federated.12694hm03q5llc139vah40fip0uw].[avg:satisfaction_score:qk]' field-type='quantitative' scope='rows' type='space' />
+            <format attr='title' class='0' field='[federated.12694hm03q5llc139vah40fip0uw].[avg:satisfaction_score:qk]' scope='rows' value='' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='font-weight' field='[federated.12694hm03q5llc139vah40fip0uw].[avg:satisfaction_score:qk]' value='bold' />
+            <format attr='color' field='[federated.12694hm03q5llc139vah40fip0uw].[avg:satisfaction_score:qk]' value='#000000' />
+            <format attr='font-weight' field='[federated.12694hm03q5llc139vah40fip0uw].[mn:survey_date:ok]' value='bold' />
+            <format attr='color' field='[federated.12694hm03q5llc139vah40fip0uw].[mn:survey_date:ok]' value='#000000' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-color' value='#818b91' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.12694hm03q5llc139vah40fip0uw].[avg:satisfaction_score:qk]</rows>
+        <cols>[federated.12694hm03q5llc139vah40fip0uw].[mn:survey_date:ok]</cols>
+      </table>
+      <simple-id uuid='{C2BB409A-942A-41F1-9E26-67218A3D0C84}' />
+    </worksheet>
+    <worksheet name='Sheet 8'>
+      <table>
+        <view>
+          <datasources />
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{A9594338-5CDE-46F2-A711-7F675CF1CB57}' />
+    </worksheet>
+    <worksheet name='Total respondents'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='customer_survey_data' name='federated.12694hm03q5llc139vah40fip0uw' />
+          </datasources>
+          <datasource-dependencies datasource='federated.12694hm03q5llc139vah40fip0uw'>
+            <column caption='Total respondents' datatype='integer' name='[Calculation_0370047422791680]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='COUNTD([respondent_id])' />
+            </column>
+            <column caption='Respondent Id' datatype='string' name='[respondent_id]' role='dimension' type='nominal' />
+            <column-instance column='[Calculation_0370047422791680]' derivation='User' name='[usr:Calculation_0370047422791680:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <text column='[federated.12694hm03q5llc139vah40fip0uw].[usr:Calculation_0370047422791680:qk]' />
+            </encodings>
+            <customized-label>
+              <formatted-text>
+                <run fontname='Tableau Medium' fontsize='11'>Total respondents</run>
+                <run>Æ&#10;</run>
+                <run fontname='Tableau Semibold' fontsize='10'><![CDATA[<[federated.12694hm03q5llc139vah40fip0uw].[usr:Calculation_0370047422791680:qk]>]]></run>
+              </formatted-text>
+            </customized-label>
+            <style>
+              <style-rule element='cell'>
+                <format attr='text-align' value='center' />
+              </style-rule>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{A42023B6-0A76-45C5-9D12-EF4B0D805C2A}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' name='Total respondents'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='entire-view' />
+      </viewpoint>
+      <simple-id uuid='{C27A3607-3CE5-4277-88E8-AD30FFDD7511}' />
+    </window>
+    <window class='worksheet' name='Average satisfaction'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='entire-view' />
+        <selection-collection>
+          <tuple-selection>
+            <tuple-reference>
+              <tuple-descriptor>
+                <pane-descriptor>
+                  <x-fields />
+                  <y-fields />
+                </pane-descriptor>
+                <columns>
+                  <field>[federated.12694hm03q5llc139vah40fip0uw].[avg:satisfaction_score:qk]</field>
+                </columns>
+              </tuple-descriptor>
+              <tuple>
+                <value>3.5302713987473906</value>
+              </tuple>
+            </tuple-reference>
+          </tuple-selection>
+        </selection-collection>
+      </viewpoint>
+      <simple-id uuid='{A042BF39-5BE4-410E-9CD6-431667B285AF}' />
+    </window>
+    <window class='worksheet' name='Average monthly spend'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='entire-view' />
+        <selection-collection>
+          <tuple-selection>
+            <tuple-reference>
+              <tuple-descriptor>
+                <pane-descriptor>
+                  <x-fields />
+                  <y-fields />
+                </pane-descriptor>
+                <columns>
+                  <field>[federated.12694hm03q5llc139vah40fip0uw].[avg:monthly_spend_inr:qk]</field>
+                </columns>
+              </tuple-descriptor>
+              <tuple>
+                <value>29584.682672233819</value>
+              </tuple>
+            </tuple-reference>
+          </tuple-selection>
+        </selection-collection>
+      </viewpoint>
+      <simple-id uuid='{7075BC16-D057-4265-8D29-5B6DBEE7A156}' />
+    </window>
+    <window class='worksheet' name='NPS score'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='entire-view' />
+        <selection-collection>
+          <tuple-selection>
+            <tuple-reference>
+              <tuple-descriptor>
+                <pane-descriptor>
+                  <x-fields />
+                  <y-fields />
+                </pane-descriptor>
+                <columns>
+                  <field>[federated.12694hm03q5llc139vah40fip0uw].[usr:Calculation_0370047423893505:qk]</field>
+                </columns>
+              </tuple-descriptor>
+              <tuple>
+                <value>-34.08163265306122</value>
+              </tuple>
+            </tuple-reference>
+          </tuple-selection>
+        </selection-collection>
+      </viewpoint>
+      <simple-id uuid='{FBC66369-2C5D-4B31-A53C-5806DFFE131B}' />
+    </window>
+    <window class='worksheet' name='% Would recommend'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='entire-view' />
+      </viewpoint>
+      <simple-id uuid='{2FED785E-2839-463B-8A6D-E804B9058A8C}' />
+    </window>
+    <window class='worksheet' name='Satisfaction trend by month'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='entire-view' />
+        <highlight>
+          <color-one-way>
+            <field>[federated.12694hm03q5llc139vah40fip0uw].[yr:survey_date:ok]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{41E32304-C6A3-498C-A457-20812898EAA7}' />
+    </window>
+    <window class='worksheet' name='Purchase channel share'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.12694hm03q5llc139vah40fip0uw].[none:purchase_channel:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='entire-view' />
+      </viewpoint>
+      <simple-id uuid='{BC2698BF-0E33-4D5F-9C4A-68B881855B21}' />
+    </window>
+    <window class='worksheet' maximized='true' name='Sheet 8'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{E9ED62F2-04E7-4508-B39B-A4869F30989D}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='% Would recommend' width='192'>
+      iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAAA7DAAAOwwHHb6hk
+      AAAECUlEQVR4nO3WTU+cVRiH8f8wM1CwuNBGaTA2oRrKojVNdOPSpR/A+PVMWmriS4xVNEJs
+      NVHRmlhrqQaLIC2dvqCUaQeoz8xz3LA27gi5rt/mLO7k5JzFldyNUkqJBDV00A+QDpIBCM0A
+      hGYAQjMAoRmA0AxAaAYgNAMQmgEIzQCEZgBCMwChGYDQDEBoBiA0AxCaAQjNAIRmAEIzAKEZ
+      gNAMQGgGIDQDEJoBCM0AhGYAQjMAoRmA0AxAaAYgNAMQmgEIzQCEZgBCMwChGYDQDEBoBiA0
+      AxCaAQjNAIRmAEIzAKEZgNAMQGgGIDQDEJoBCM0AhGYAQjMAoRmA0AxAaAYgNAMQmgEIzQCE
+      ZgBCMwChGYDQDEBoBiA0AxCaAQjNAIRmAEIzAKEZgNAMQGgGIDQDEJoBCM0AhGYAQjMAoRmA
+      0AxAaAYgNAMQmgEIzQCEZgBCMwChGYDQDEBoBiA0AxCaAQjNAIRmADo0tu+u5vP5r/Jor5/e
+      1r3c2ezuT+r8+sv1VCXprCxlpbOV1L0s3Vj9z/se3102AB0en83N5/mxXi79dDM/Lv6Q5siR
+      /clQrix8lI3HdebnL+by14vZWb+ahZ9vp9rdzpXFb7O8fi91XeXW7U6SQdZvbWT3r3UD0OEx
+      2ko27j9MtbWWv5+UfHFxLt2qTpJMT03k95u/pT88lbFqO0tLNzJ9+lQ+vvBOHg7aWfhgNn/c
+      7+TCe58m2c258x8mcQXSIfLmW2/n5enTGW0Op/dgM2+cHc8n360lSU7OTOf6pfk8PXUqx0ar
+      XL7WzStTw+l0m3n9tVdz5oXx/Ln5KHVdJyn7pwHoEGmPHE33zlpOnjmbZ4/WmfvyWk5MPpMk
+      GZ94KStXv8+LJyZz/NhIljarPHdkPDPH2zn/7my+Wd3JzOREqs3lnJt9Pw/2SpKkUUopB/kp
+      6X8rJYN6kKGhZsqgn50nVZ4aG02j0UgpJf2qSrPdTkqd/qCk3WolZZBer5fWyFhG2s38s7eT
+      floZbjXTajYMQGyuQEIzAKEZgNAMQGgGIDQDEJoBCM0AhGYAQjMAoRmA0AxAaAYgNAMQmgEI
+      zQCEZgBCMwChGYDQDEBoBiA0AxCaAQjNAIRmAEIzAKEZgNAMQGgGIDQDEJoBCM0AhGYAQjMA
+      oRmA0AxAaAYgNAMQmgEIzQCEZgBCMwChGYDQDEBoBiA0AxCaAQjNAIRmAEIzAKEZgNAMQGgG
+      IDQDEJoBCM0AhGYAQjMAoRmA0AxAaAYgNAMQmgEIzQCEZgBCMwChGYDQDEBoBiA0AxCaAQjN
+      AIRmAEIzAKEZgNAMQGgGIDQDEJoBCM0AhGYAQjMAoRmA0AxAaAYgNAMQmgEIzQCEZgBCMwCh
+      GYDQDEBoBiC0fwFeo89W+jrWiQAAAABJRU5ErkJggg==
+    </thumbnail>
+    <thumbnail height='192' name='Average monthly spend' width='192'>
+      iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAAA7DAAAOwwHHb6hk
+      AAAEhElEQVR4nO3XTU9cZRjG8euceQWl1BaGoZCGkr5Y0yaY1MRofI2Jrly6c+cH4cMY41bd
+      0MTaSFSMkmKDhhGmyMBQR0krU2AYzpwXVxq6tx3i9f/tzuY597P4J/cTZFmWCTAV9nsAoJ8I
+      ANbyxz9aB5k6vX6NAjx9jwXQ6UmPon6NAjx9rECwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCw
+      RgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCw
+      RgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCw
+      RgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCw
+      RgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCwRgCw
+      RgCwRgCwRgCwRgCwRgCwRgCwRgA40dJOS1/Pzekgyp7I+fkncirwH9n88abWVnc0PD2jy6OB
+      4uJpPVuK9eBBV0Plnur1hs5dvKahfE973Vj7+wc6PSA1t1s6M3lF1dFh7TRW9HC/p7PVKT03
+      lNP6ys8qj0xrcqKi3Ozs7Ow/P/urKx0lfbwtcFyWaP7WvN547zX9WttWdfChFu7u6Gy8qsVG
+      V/Vvb2ps+rwWvvpGY+W2Pv70MxWHKxrMDpUEmea/mNPEWKq528saKexqqd5WvLmgduGcNr7/
+      XKemb7AC4eTqtRtq3v9dSwuLqv+yqMHxa4r+XNHSnZquXx3XRnNTtZ/uKkpjpUmmy6+8rzdf
+      vaHt9WVtb7WUHB6o1bynCzNva2rqvALF2rpXU2PljvbiUNHREQHg5GqtLeuFdz7Uux98pBcn
+      8rp/WNLowK7Wdp/ReKWi56eqKg6dUaVaVRiEKhZLUpbqj62m0ixVJmn86sva/O4T3frytqIk
+      1KXrM8oVihoZm1C5ECrIsuzf18X6bqZHUR9vDByTJokUhArDQGkSS0FOaXykOAtVLhWVprG6
+      nY7ypQEVcqFSBcoFgeLekaI4U7FYULzXUn2jpfZvPyiefEuvv3RF0WFHWVhQqVQkAPy/JdG+
+      NlZrSvKndOHSRRVyjy89BABrvAFgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBg
+      jQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBg
+      jQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBg
+      jQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBg
+      jQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBg
+      jQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBg7W+UG/819ikPKQAAAABJRU5ErkJggg==
+    </thumbnail>
+    <thumbnail height='192' name='Average satisfaction' width='192'>
+      iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAAA7DAAAOwwHHb6hk
+      AAAEJklEQVR4nO3Xy2tdVRxH8e99JLlKjUmwrUZaQ6mxIeiwEx2IDkQUnHXoHyU4FxHEYR9i
+      VSxOGsVWKJHSvBqSpqVJk9Dkmtd95BxHik4clVzCWp/RPpO9f2ew2OdUyrIsI0FVez2A1EsG
+      ILT6vx9Wd8vsdXo1inT0/hPAXidptns1inT0/AQSmgEIzQCEZgBCMwChGYDQDEBoBiA0AxCa
+      AQjNAIRmAEIzAKEZgNAMQGgGIDQDEJoBCM0AhGYAQjMAoRmA0AxAaAYgNAMQmgEIzQCEZgBC
+      MwChGYDQDEBoBiA0AxCaAQjNAIRmAEIzAKEZgNAMQGgGIDQDEJoBCM0AhGYAQjMAoRmA0AxA
+      aAYgNAMQmgEIzQCEZgBCMwChGYDQDEBoBiA0AxCaAQjNAIRmAEIzAKEZgNAMQGgGIDQDEJoB
+      CM0AhGYAQjMAoRmA0AxAaAYgNAMQmgEIzQCEZgBCMwChGYDQDEBoBiA0AxCaAQjNAIRmAEIz
+      AKEZgNAMQGgGoGOlbD3N1PXL2dovnsl+9Weyi3REnsz+msW5OzkYnsw7k0PZ6T6fkRdrWXu8
+      lZGhvizMzGXk7EROD1azvt1Ka7eZocFGVpZXcuLUWM68eipbjxezutHM8Omz3gA6Rsoi8/MP
+      8/Ynl7I5+1sqnbX88O2N7D26k6nf7+aXq9+kU2/k5uWv0lybzReff5Y/Zpeytb6W1Kq58fWX
+      2Vyfy7Ur36XY38hP3/9oADo+DlvbuT8/k+mbU1ldvpvt/vGcOJjP7VvTmXjrQpaXFrIwfTvt
+      VNJtdzP65vv58IP3srlyLysPHqW7u5uNpw9zcuxizp1/PX3VrgHo+NhZncnw5Mf56NKneffi
+      +Swtr+Xc2GBuzf6Z10ZP5o0L46k/90JeevmV1GuV9A80kiRPHiylqJQpyzJDo5PZWf45169c
+      zU4rqZRlWf59wOJWmWa7Z+8n/a+yOEyRSmrV6j/rStFNq1Ok0Wgk5WEO9vdS7RtIf189RZHU
+      atUcdttptTrp7x9I0W5mYW4u++v3s1qeMQCxFN2DrCzcy/5hX8bGJwxAbP4DCM0AhGYAQjMA
+      oRmA0AxAaAYgNAMQmgEIzQCEZgBCMwChGYDQDEBoBiA0AxCaAQjNAIRmAEIzAKEZgNAMQGgG
+      IDQDEJoBCM0AhGYAQjMAoRmA0AxAaAYgNAMQmgEIzQCEZgBCMwChGYDQDEBoBiA0AxCaAQjN
+      AIRmAEIzAKEZgNAMQGgGIDQDEJoBCM0AhGYAQjMAoRmA0AxAaAYgNAMQmgEIzQCEZgBCMwCh
+      GYDQDEBoBiA0AxCaAQjNAIRmAEIzAKEZgNAMQGgGIDQDEJoBCM0AhGYAQjMAoRmA0AxAaAYg
+      NAMQmgEIzQCEZgBCMwChGYDQDEBoBiA0AxCaAQjNAIRmAEIzAKH9BWgW5/Tds3NBAAAAAElF
+      TkSuQmCC
+    </thumbnail>
+    <thumbnail height='192' name='NPS score' width='192'>
+      iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAAA7DAAAOwwHHb6hk
+      AAACxUlEQVR4nO3WsWpUURhG0X8miY2dna8gWAdb8UWtrG3tLRQtNGIjBoQEUihqIEEnJtfG
+      gD6AmWKvVd1zq6/ZnLNalmUZiFpvewBskwBI2/37cHK2zPnFtqbAzfsngPOLmdPNtqbAzfME
+      Ik0ApAmANAGQJgDSBECaAEgTAGkCIE0ApAmANAGQJgDSBECaAEgTAGkCIE0ApAmANAGQJgDS
+      BECaAEgTAGkCIE0ApAmANAGQJgDSBECaAEgTAGkCIE0ApAmANAGQJgDSBECaAEgTAGkCIE0A
+      pAmANAGQJgDSBECaAEgTAGkCIE0ApAmANAGQJgDSBECaAEgTAGkCIE0ApAmANAGQJgDSBECa
+      AEgTAGkCIE0ApAmANAGQJgDSBECaAEgTAGkCIE0ApAmANAGQJgDSBECaAEgTAGkCIE0ApAmA
+      NAGQJgDSBECaAEgTABmb78dz8Pb9XC4zn48+zOnZRgB0nB2/madPHs+nk9P5+PrZHH85FwAl
+      67m//2AOXjyfZbn+AyG3796bOz8P5+jrj5kRADnr2X/0cN69fDUzM6tlub4MZg6/LXO62doy
+      +K+Wq8u5mtXsrFfz6+Ji1rt7s7vtUXBTVuud2fnzvbt3a2Y8gYgTAGkCIE0ApAmANAGQJgDS
+      BECaAEgTAGkCIE0ApAmANAGQJgDSBECaAEgTAGkCIE0ApAmANAGQJgDSBECaAEgTAGkCIE0A
+      pAmANAGQJgDSBECaAEgTAGkCIE0ApAmANAGQJgDSBECaAEgTAGkCIE0ApAmANAGQJgDSBECa
+      AEgTAGkCIE0ApAmANAGQJgDSBECaAEgTAGkCIE0ApAmANAGQJgDSBECaAEgTAGkCIE0ApAmA
+      NAGQJgDSBECaAEgTAGkCIE0ApAmANAGQJgDSBECaAEgTAGkCIE0ApAmANAGQJgDSBECaAEgT
+      AGkCIE0ApAmAtN9JwkR7MCrxKQAAAABJRU5ErkJggg==
+    </thumbnail>
+    <thumbnail height='192' name='Purchase channel share' width='192'>
+      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
+      Fmg+iiQAAAAASUVORK5CYII=
+    </thumbnail>
+    <thumbnail height='192' name='Satisfaction trend by month' width='192'>
+      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
+    </thumbnail>
+    <thumbnail height='192' name='Sheet 8' width='192'>
+      iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAAA7DAAAOwwHHb6hk
+      AAACFUlEQVR4nO3TMQEAIAzAMMC/5yFjRxMFfXpnZg5Eve0A2GQA0gxAmgFIMwBpBiDNAKQZ
+      gDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFI
+      MwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQD
+      kGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBp
+      BiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA
+      0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDN
+      AKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxA
+      mgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZ
+      gDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFI
+      MwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKR9Y+0F
+      fBUOM1sAAAAASUVORK5CYII=
+    </thumbnail>
+    <thumbnail height='192' name='Total respondents' width='192'>
+      iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAAA7DAAAOwwHHb6hk
+      AAADnElEQVR4nO3XvWvdVRzH8c+9Nwk2sS7FBiXYwaDgU3VoqYKLs3+hU1GpDuIYRRCEgthg
+      oU5VKlj7bGiH1pLkJrn35+YDOrmE9PN6jefwPZzlzeGMhmEYAqXGh30BOEwCoJoAqCYAqgmA
+      agKgmgCoJgCqCYBqAqCaAKgmAKoJgGoCoJoAqCYAqgmAagKgmgCoJgCqCYBqAqCaAKgmAKoJ
+      gGoCoJoAqCYAqgmAagKgmgCoJgCqCYBqAqCaAKgmAKoJgGoCoJoAqCYAqgmAagKgmgCoJgCq
+      CYBqAqCaAKgmAKoJgGoCoJoAqCYAqgmAagKgmgCoJgCqCYBqAqCaAKgmAKoJgGoCoJoAqCYA
+      qgmAagKgmgCoJgCqCYBqAqCaAKgmAKoJgGoCoJoAqCYAqgmAagKgmgCoJgCqCYBqAqCaAKgm
+      AKoJgGoCoJoAqCYAqgmAagKgmgCotnDYF4D/Y5jP8sPmxWw92stoNMlLp8/k1Mln/tzf332c
+      3flSji8v/WNuvn0331x5kPfeeS2JF4Aj7NjySi5tfJHd5ZUsLoxz7/qP+fa7y3m0s5dLG+fz
+      wYWN3Np6mAd3fsnmpc3c3HqY+e6DfH/l5yTJfH8qAI6m0XiSl984kxdWV/PmubM5Mb+d859f
+      zML0bj787OvM5rPMZgeZzWfZureV8WiaTz76NNvzv86YPr4vAJ4M929cy/Ovn8vZd9/O77du
+      ZG1tLafWX8mpZ5dz7aeruX7zt+ztbGf/bwFkGPwBeDKsrp/OnS8v5OObT+e5V9/K8RPJ1a82
+      cvnk+/n1xu2svrie+fDvudEwDP+xDEfDwcFBJpNJRqNkf7qbnb1ZVlZWMh4N2d3ZznjxWMbz
+      vUxnyVNLi5lMxpnNhiwsTDIMgwDo5g9ANQFQTQBUEwDVBEA1AVBNAFQTANUEQDUBUE0AVBMA
+      1QRANQFQTQBUEwDVBEA1AVBNAFQTANUEQDUBUE0AVBMA1QRANQFQTQBUEwDVBEA1AVBNAFQT
+      ANUEQDUBUE0AVBMA1QRANQFQTQBUEwDVBEA1AVBNAFQTANUEQDUBUE0AVBMA1QRANQFQTQBU
+      EwDVBEA1AVBNAFQTANUEQDUBUE0AVBMA1QRANQFQTQBUEwDVBEA1AVBNAFQTANUEQDUBUE0A
+      VBMA1QRANQFQTQBUEwDVBEA1AVBNAFQTANUEQDUBUE0AVBMA1QRANQFQTQBUEwDVBEA1AVBN
+      AFQTANUEQLU/AIfWmGizawEUAAAAAElFTkSuQmCC
+    </thumbnail>
+  </thumbnails>
+</workbook>

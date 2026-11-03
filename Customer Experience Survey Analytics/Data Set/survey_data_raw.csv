@@ -1,0 +1,501 @@
+respondent_id,full_name,email,age,gender,city,state,survey_date,product_purchased,purchase_channel,satisfaction_score,nps_score,delivery_rating,support_rating,monthly_spend_inr,income_band,competitors_used,referred_by,would_recommend,feedback_comment
+R0339,Amit Mehta,amit.mehta94@gmail.com,59,Other,Chennai,Tamil Nadu,2026-03-20,Smartphone,Store,4,5,5,5,42759,10-20L,"Tata Cliq, Meesho",R0135,No,Average experience
+R0206,Rahul Iyer,rahul.iyer49@outlook.com,30,Other,Lucknow,Uttar Pradesh,04-04-26,Speaker,Store,2,3,1,4,13493,6-10L,Amazon,R0006,No,Average experience
+R0278,Pooja Singh,pooja.singh10@yahoo.com,43,Male,Bangalore,Karnataka,05/02/2026,speaker,Store,,6,1,5,7035,10-20L,"Amazon, Meesho, Tata Cliq",R0207,Yes,Support team was unhelpful
+R0348,Tanvi Khan,tanvi.khan50@gmail.com,-5,MALE,Pune,Maharashtra,2026-05-05,Headphones,App,4,8,4,5,26311,20L+,,R0069,No,Excellent service
+R0419,Suresh Sharma,suresh.sharma32outlook.com,23,Other,Calcutta,West Bengal,2026-02-17,Smartphone,Marketplace,4,9,4,3,16318,20L+,"Amazon, Croma, Tata Cliq",,No,Value for money
+R0449,Swati Patel,swati.patel92@gmail.com,19,Other,Jaipur,Rajasthan,17/06/2026,Tablet,Online,1,1,3,1,6736,6-10L,"Croma, Amazon",,Yes,Average experience
+R0294,Neha Verma,neha.verma71@gmail.com,50,Male,Bengaluru,Karnataka,20-Jul-2026,Smartphone,Online,2,5,1,4,1256,20L+,Amazon,,Yes,Average experience
+R0312,Swati Yadav,,NA,Other,Pune,Maharashtra,04-13-26,Smart Watch,App,4,9,3,,25785,<3L,"Reliance Digital, Meesho, Flipkart",R0052,Yes,Battery issues
+R0437,Anjali Malik,anjali.malik61@yahoo.com,25,Other,Kolkata,West Bengal,25-Jun-2026,Speaker,App,1,2,3,5,10697,20L+,"Tata Cliq, Flipkart",,Yes,"Great product, fast delivery"
+R0381,Tanvi Reddy,tanvi.reddy90@outlook.com,33,Male,saharanpur,Uttar Pradesh,06-16-26,Tablet,App,3,3,4,3,51681,3-6L,"Amazon, Croma, Tata Cliq",R0083,Yes,Will buy again
+R0481,Arjun Gupta,arjun.gupta66@gmail.com,32,Female,Jaipur,Rajasthan,2026-05-05,Smart Watch,Online,5,10,3,2,38014,10-20L,,,No,Average experience
+R0380,Sanjay Verma,sanjay.verma51@outlook.com,24,Female,Hyderabad,Telangana,07-04-26,speaker,Marketplace,2,2,4,5,57084,20L+,,,No,
+R0244,Rohit Iyer,rohit.iyer22@yahoo.com,50,Female,Mumbai,Maharashtra,07-29-26,Smartphone,Online,5,9,4,4,23021,10-20L,Reliance Digital,R0012,Yes,"Great product, fast delivery"
+R0106,Amit Gupta,,54,Female,Bengaluru,Karnataka,15/02/2026,Smart Watch,Marketplace,5,10,4,1,2972,20L+,Meesho,,No,"Great product, fast delivery"
+R0222,DEEPAK DAS,deepak.das92@yahoo.com,56,Male,chennai,Tamil Nadu,26/05/2026,Smartphone,App,3,5,5,5,13119,6-10L,"Amazon, Flipkart, Reliance Digital",,No,Delivery was late
+R0026,Kavya Gupta,kavya.gupta9@yahoo.com,53,Female,Kolkata,West Bengal,18/09/2026,headphones,App,2,2,1,3,48082,6-10L,"Flipkart, Reliance Digital, Tata Cliq",,No,Will buy again
+R0249,Nikhil Das,nikhil.das57@outlook.com,56,Female,Pune,Maharashtra,14/06/2026,Smartphone,Store,5,10,1,2,13883,3-6L,,R0223,Yes,Average experience
+R0471,Divya Sharma,divya.sharma81@yahoo.com,50,Other,Jaipur,Rajasthan,02-25-26,Speaker,Store,4,8,5,2,34873,6-10L,"Meesho, Amazon",,Yes,Value for money
+R0129,Divya Iyer,divya.iyer90@gmail.com,,Female,Jaipur,Rajasthan,04-28-26,Tablet,Online,2,1,2,4,42172,<3L,,R0103,Yes,Excellent service
+R0292,Pooja Chopra,pooja.chopra14@gmail.com,58,Other,Jaipur,Rajasthan,2026-02-20,Smart Watch,Online,3,7,4,5,36199,<3L,"Tata Cliq, Meesho, Amazon",,No,Packaging damaged
+R0276,Manish Patel,manish.patel29@gmail.com,32,Female,Lucknow,Uttar Pradesh,02/03/2026,Smartphone,Store,3,5,3,,18223,<3L,Flipkart,,Yes,"Great product, fast delivery"
+R0364,Ritu Yadav,ritu.yadav30@yahoo.com,38,Female,Bengaluru,Karnataka,02-Aug-2026,headphones,Store,5,10,3,3,48125,6-10L,"Reliance Digital, Croma",,No,Average experience
+R0119,Rohit Verma,rohit.verma88@yahoo.com,999,Male,Bengaluru,Karnataka,18/04/2026,Tablet,Marketplace,4,5,1,2,₹2056,10-20L,"Amazon, Meesho",,Yes,"Great product, fast delivery"
+R0302,Nikhil Verma,nikhil.verma50@gmail.com,49,Female,Mumbai,Maharashtra,04-21-26,Laptop,App,1,0,3,4,43445,3-6L,,,Yes,Value for money
+R0410,Rohit Chopra,rohit.chopra8@outlook.com,46,Male,Pune,Maharashtra,27/04/2026,smartphone,Store,2,,4,1,5000000,3-6L,Flipkart,,Yes,Too expensive
+R0415,Karan Gupta,karan.gupta30@outlook.com,18,Male,Kolkata,West Bengal,08-11-26,Headphones,App,5,7,1,5,24571,10-20L,"Tata Cliq, Flipkart, Croma",,No,Too expensive
+R0231,Amit Gupta,,62,F,Delhi,Delhi,05-10-26,Smartphone,App,4,9,4,4,18459,<3L,"Reliance Digital, Croma, Amazon",,Yes,"Great product, fast delivery"
+R0057,Karan Gupta,karan.gupta89@outlook.com,53,Female,Lucknow,Uttar Pradesh,28/05/2026,Headphones,App,3,5,3,1,38083,20L+,"Reliance Digital, Croma, Flipkart",,No,"Great product, fast delivery"
+R0143,Manish Khan,manish.khan93gmail.com,19,M,Bengaluru,Karnataka,03-May-2026,smart watch,Store,4,7,5,4,50683,20L+,Tata Cliq,,No,Will buy again
+R0159,VIKRAM NAIR,vikram.nair79@gmail.com,49,Male,Hyderabad,Telangana,10/09/2026,Smartphone,Online,4,8,1,4,41490,<3L,Tata Cliq,,No,Packaging damaged
+R0440,Aarav Chopra,aarav.chopra76@yahoo.com,999,Other,Pune,Maharashtra,25-Feb-2026,Smartphone,App,5,10,2,1,30799,20L+,"Flipkart, Tata Cliq",,Yes,Excellent service
+R0166,Pooja Khan,pooja.khan64@outlook.com,56,Male,Mumbai,Maharashtra,14-Jul-2026,Laptop,Store,2,5,5,1,50115,3-6L,Reliance Digital,,No,Packaging damaged
+R0309,RITU PATEL,ritu.patel33@gmail.com,54,Male,Bengaluru,Karnataka,13/03/2026,headphones,App,4,7,1,3,5000000,10-20L,Reliance Digital,,No,Delivery was late
+R0162,Manish Yadav,manish.yadav1@yahoo.com,31,Other,Bengaluru,Karnataka,2026-07-18,Tablet,Online,4,8,,4,58773,<3L,,,No,"Great product, fast delivery"
+R0430,Aarav Yadav,aarav.yadav50@outlook.com,33,Male,Hyderabad,Telangana,2026-08-20,Smart Watch,Marketplace,4,5,4,4,-2000,10-20L,"Croma, Flipkart",R0196,No,Will buy again
+R0095,Ritu Gupta,ritu.gupta31@yahoo.com,thirty,Male,hyderabad,Telangana,2026-06-19,Speaker,Online,5,8,3,4,1246,6-10L,Flipkart,,Yes,Will buy again
+R0032,Sneha Gupta,sneha.gupta54@outlook.com,NA,Other,Chennai,Tamil Nadu,03/08/2026,Smart Watch,App,3,5,1,3,14738,10-20L,"Flipkart, Croma, Amazon",R0016,yes,Too expensive
+R0391,  vikram nair ,vikram.nair84@outlook.com,57,Female,Poona,Maharashtra,08/06/2026,Speaker,Online,4,8,4,4,25215,6-10L,Reliance Digital,,No,Average experience
+R0250,Karan Patel,karan.patel22@yahoo.com,23,Other,Kolkata,West Bengal,07-23-26,tablet,Marketplace,5,9,2,4,1798,10-20L,"Amazon, Croma, Flipkart",,Yes,Battery issues
+R0263,Ritu Das,,18,Male,Bengaluru,Karnataka,2026-03-04,Tablet,App,4,7,1,1,8673,20L+,"Croma, Tata Cliq",R0083,Yes,Packaging damaged
+R0485,  karan joshi ,karan.joshi83@gmail.com,59,Male,DELHI ,Delhi,01-01-26,Headphones,Online,4,9,3,1,43987,6-10L,"Reliance Digital, Tata Cliq, Croma",,No,Average experience
+R0040,Ritu Reddy,,27,Male,Saharanpur,Uttar Pradesh,15-Aug-2026,Headphones,Marketplace,4,8,4,1,4228,6-10L,"Amazon, Meesho",R0033,No,Excellent service
+R0358,Harsh Nair,harsh.nair51@outlook.com,63,female,Chennai,Tamil Nadu,31-Jan-2026,Smart Watch,Marketplace,1,2,4,1,7291,3-6L,"Tata Cliq, Amazon",,Yes,Will buy again
+R0008,ARJUN PATEL,arjun.patel25@yahoo.com,62,Male,Jaipur,Rajasthan,07/09/2026,Smartphone,Online,5,10,3,1,3786,20L+,"Tata Cliq, Meesho, Flipkart",,Yes,Too expensive
+R0432,Harsh Verma,harsh.verma20@outlook.com,29,Male,Lucknow,Uttar Pradesh,08/07/2026,Smartphone,App,4,8,2,3,34136,<3L,,,No,Support team was unhelpful
+R0174,  harsh khan ,harsh.khan5@gmail.com,57,Female,Pune,Maharashtra,2026-05-13,Smartphone,Marketplace,4,8,2,1,2979,10-20L,"Flipkart, Croma",R0065,No,Average experience
+R0145,Meera Das,meera.das22@gmail.com,58,Other,Mumbai,Maharashtra,2026-08-07,Headphones,Store,4,8,5,5,29533,6-10L,"Tata Cliq, Croma",,No,Packaging damaged
+R0179,Manish Gupta,manish.gupta15@gmail.com,58,MALE,Kolkata,West Bengal,28/01/2026,Smart Watch,Store,4,7,2,1,4040,6-10L,"Flipkart, Reliance Digital",,No,Will buy again
+R0056,Swati Nair,swati.nair25@gmail.com,27,Female,Jaipur,Rajasthan,2026-01-17,Laptop,Marketplace,5,8,2,4,33387,20L+,"Meesho, Amazon, Flipkart",,Yes,Too expensive
+R0412,Karan Iyer,karan.iyer60@gmail.com,65,Male,Hydrabad,Telangana,05-Jun-2026,Tablet,App,4,6,2,5,2060,6-10L,,,Yes,Support team was unhelpful
+R0133,Divya Nair,divya.nair24@outlook.com,49,Other,Saharanpur,Uttar Pradesh,05-21-26,Laptop,Online,5,-1,5,4,31847,20L+,,R0057,No,Packaging damaged
+R0243,Priya Das,priya.das51@outlook.com,36,Male,Mumbai,Maharashtra,27-Jun-2026,Smart Watch,Store,4,8,2,5,48553,10-20L,"Reliance Digital, Flipkart, Amazon",,No,"Great product, fast delivery"
+R0228,Amit Nair,amit.nair6@gmail.com,61,Other,Lucknow,Uttar Pradesh,19-Apr-2026,Smartphone,App,3,5,1,4,46272,<3L,Meesho,,No,Packaging damaged
+R0079,Harsh Sharma,harsh.sharma39@gmail.com,52,Female,Kolkata,West Bengal,22/02/2026,Smartphone,Marketplace,3,6,1,2,14254,20L+,"Meesho, Tata Cliq",,No,Support team was unhelpful
+R0099,Sneha Iyer,sneha.iyer17@gmail.com,29,Other,Kolkata,West Bengal,19/04/2026,Smart Watch,Store,4.5,8,2,5,17400,6-10L,,,Yes,Packaging damaged
+R0066,Rahul Patel,rahul.patel90@outlook.com,31,Female,Delhi,Delhi,03/09/2026,Laptop,App,5,7,3,4,31056/-,20L+,"Croma, Meesho",,maybe,Too expensive
+R0117,Anjali Yadav,anjali.yadav6@yahoo.com,29,male,Mumbai,Maharashtra,03-03-26,Laptop,App,5,10,1,3,31061,3-6L,,R0034,Yes,Will buy again
+R0216,Kavya Gupta,kavya.gupta35@outlook.com,51,Female,Delhi,Delhi,2026-06-11,Smartphone,Marketplace,1,3,5,3,29881,10-20L,,,Yes,Battery issues
+R0365,Pooja Chopra,pooja.chopra28@outlook.com,,Female,Saharanpur,Uttar Pradesh,16/06/2026,Smartphone,Online,3,6,2,2,21830,10-20L,"Amazon, Reliance Digital, Tata Cliq",,Yes,Battery issues
+R0395,Suresh Patel,suresh.patel6@yahoo.com,41,Other,Bengaluru,Karnataka,03/06/2026,Laptop,Marketplace,4,8,2,3,14138,10-20L,"Reliance Digital, Meesho, Tata Cliq",,No,Packaging damaged
+R0160,Deepak Nair,deepak.nair5@outlook.com,29,Other,Delhi,Delhi,09-03-26,Smart Watch,App,2,3,4,4,49166,<3L,"Tata Cliq, Croma",R0040,Yes,Value for money
+R0173,Sanjay Verma,sanjay.verma15@outlook.com,23,Female,Mumbai,Maharashtra,12/07/2026,Speaker,Online,5,8,4,3,50920,10-20L,"Croma, Flipkart",R0076,Yes,Battery issues
+R0142,Vikram Das,vikram.das57@outlook.com,24,F,Chennai,Tamil Nadu,12-Jun-2026,Speaker,Store,2,2,3,1,32304,10-20L,"Tata Cliq, Reliance Digital",R0097,Yes,Average experience
+R0003,Isha Das,isha.das99@gmail.com,28,Male,Pune,Maharashtra,23-Apr-2026,Smartphone,App,4,7,4,3,4837,3-6L,"Flipkart, Reliance Digital",,No,
+R0046,  tanvi verma ,tanvi.verma50@yahoo.com,41,Female,Chennai,Tamil Nadu,2026-09-17,Headphones,Online,1,3,3,1,23096,3-6L,,R0025,No,Support team was unhelpful
+R0140,  aarav joshi ,aarav.joshi90@gmail.com,39,Male,Poona,Maharashtra,07-10-26,Headphones,Marketplace,4,8,1,5,31311,3-6L,Croma,R0038,No,"Great product, fast delivery"
+R0373,Amit Singh,amit.singh64@outlook.com,60,Other,Saharanpur,Uttar Pradesh,02-19-26,Laptop,Store,4,9,2,5,9007,3-6L,Meesho,,Yes,Delivery was late
+R0184,Nikhil Gupta,nikhil.gupta36@gmail.com,38,Female,Pune,Maharashtra,09-15-26,Smart Watch,Online,3,5,4,5,44953,20L+,"Reliance Digital, Tata Cliq",R0089,No,
+R0019,Sanjay Patel,sanjay.patel42@gmail.com,52,Male,Hyderabad,Telangana,12-Aug-2026,Headphones,Marketplace,5,10,2,4,37845,20L+,"Croma, Amazon, Reliance Digital",,No,Support team was unhelpful
+R0307,Sanjay Yadav,sanjay.yadav87yahoo.com,46,Female,Chennai,Tamil Nadu,31-Mar-2026,Tablet,Marketplace,5,10,3,3,12989,<3L,"Tata Cliq, Amazon",,No,Excellent service
+R0272,Swati Mehta,swati.mehta16@gmail.com,29,Female,Hyderabad,Telangana,18/03/2026,Laptop,Store,2,5,4,1,40900,3-6L,,,Yes,Packaging damaged
+R0153,Sneha Singh,sneha.singh77@gmail.com,999,Female,Bangalore,Karnataka,17/05/2026,Smartphone,Marketplace,5,10,2,5,55952,20L+,"Meesho, Croma, Flipkart",R0007,No,Excellent service
+R0245,Aarav Nair,aarav.nair10@outlook.com,29,Other,Mumbai,Maharashtra,20/07/2026,headphones,Store,3,7,4,3,₹12161,3-6L,,,Yes,Excellent service
+R0460,Deepak Das,,21,Other,Bengaluru,Karnataka,29/04/2026,tablet,Online,4,9,2,5,36694,<3L,"Tata Cliq, Meesho",,Yes,Battery issues
+R0138,Deepak Nair,deepak.nair45@yahoo.com,58,Male,Kolkata,West Bengal,11-Aug-2026,Smart Watch,App,4,9,3,4,17526,3-6L,"Amazon, Meesho",,Yes,Will buy again
+R0075,Arjun Iyer,arjun.iyer14@yahoo.com,62,Male,Hyderabad,Telangana,01-13-26,Smartphone,Store,4,7,3,3,22983,10-20L,Tata Cliq,,No,Will buy again
+R0408,Karan Singh,karan.singh60@gmail.com,19,Female,Lucknow,Uttar Pradesh,10-Feb-2026,Tablet,Store,1,2,5,4,50206,6-10L,,,No,Excellent service
+R0324,Kavya Patel,kavya.patel76@gmail.com,19,Female,Hyderabad,Telangana,29/05/2026,Tablet,App,2,1,2,4,54942,20L+,,R0109,Yes,Packaging damaged
+R0345,Manish Joshi,manish.joshi69@outlook.com,20,Female,Bengaluru,Karnataka,17/07/2026,Speaker,App,5,10,2,3,46352,20L+,"Amazon, Tata Cliq",R0223,Yes,Battery issues
+R0374,Vikram Reddy,vikram.reddy81@gmail.com,41,Male,jaipur,Rajasthan,01-18-26,Smartphone,Store,4,9,1,2,11109,10-20L,"Amazon, Tata Cliq",,No,Excellent service
+R0453,Tanvi Gupta,tanvi.gupta63@yahoo.com,31,Female,bengaluru ,Karnataka,05-05-26,Smartphone,Marketplace,3,4,4,2,4524,<3L,"Tata Cliq, Croma, Flipkart",,No,Delivery was late
+R0001,Sanjay Verma,sanjay.verma87@outlook.com,65,Other,Delhi,Delhi,2026-03-13,Smartphone,Marketplace,3,-1,1,1,6640,3-6L,Tata Cliq,,Yes,Too expensive
+R0144,MANISH NAIR,manish.nair27@outlook.com,34,Male,Hyderabad,Telangana,2026-02-06,Smart Watch,Online,1,0,3,5,49224,10-20L,"Meesho, Amazon",,No,Too expensive
+R0401,Rohit Singh,rohit.singh2@outlook.com,22,Other,saharanpur,Uttar Pradesh,2026-02-14,Smartphone,Store,2,2,5,4,41853,6-10L,,R0175,Yes,"Great product, fast delivery"
+R0396,Harsh Iyer,harsh.iyer61@gmail.com,,Female,Jaipur,Rajasthan,21/07/2026,Headphones,Marketplace,4,6,1,2,14732,6-10L,Meesho,,No,Too expensive
+R0208,RITU PATEL,ritu.patel61@yahoo.com,24,Other,Bombay,Maharashtra,20/06/2026,tablet,Online,4,5,1,3,33565,20L+,"Croma, Reliance Digital, Meesho",,Yes,Too expensive
+R0025,Isha Joshi,isha.joshi98@gmail.com,21,Male,Jaipur,Rajasthan,09-13-26,Headphones,Marketplace,2,3,4,1,2391,20L+,Meesho,R0018,Yes,Battery issues
+R0297,DIVYA DAS,divya.das25@yahoo.com,59,Female,Madras,Tamil Nadu,08-12-26,Smartphone,App,3,15,2,2,47820,10-20L,"Reliance Digital, Meesho, Croma",R0144,No,Average experience
+R0447,Harsh Yadav,,,Other,Saharanpur,Uttar Pradesh,2026-08-10,Speaker,Marketplace,3,6,5,1,49301,3-6L,"Tata Cliq, Reliance Digital, Meesho",R0098,No,
+R0376,Aarav Gupta,aarav.gupta69@yahoo.com,51,Other,Saharanpur,Uttar Pradesh,2026-09-26,Tablet,Store,4,6,3,2,7062,3-6L,Meesho,,Yes,Too expensive
+R0049,Deepak Singh,deepak.singh4@outlook.com,41,Female,chennai,Tamil Nadu,2026-05-08,Tablet,Online,3,5,3,3,46639,10-20L,Tata Cliq,R0034,No,Excellent service
+R0109,Karan Das,karan.das74@outlook.com,39,Male,Kolkata,West Bengal,2026-02-15,tablet,Online,3,3,1,3,42727,3-6L,"Croma, Meesho, Reliance Digital",,Yes,Delivery was late
+R0280,Rahul Verma,rahul.verma55@outlook.com,23,Other,Saharanpur,Uttar Pradesh,19/03/2026,Smart Watch,Store,5,10,3,5,54079,6-10L,"Amazon, Croma",R0093,No,
+R0116,Arjun Verma,arjun.verma66@outlook.com,61,Male,Hyderabad,Telangana,19/07/2026,Smart Watch,Marketplace,4,6,4,3,36684,<3L,,R0086,No,Value for money
+R0470,Aarav Iyer,aarav.iyer96gmail.com,33,Male,Saharanpur,Uttar Pradesh,08-08-26,smartphone,Store,4,8,4,1,3262,3-6L,,,Yes,Will buy again
+R0334,Neha Sharma,neha.sharma95@yahoo.com,65,MALE,Lucknow,Uttar Pradesh,25/07/2026,Smartphone,Marketplace,2,4,1,1,49170,20L+,Amazon,,No,Value for money
+R0386,Kavya Das,kavya.das49@outlook.com,39,Female,Mumbay,Maharashtra,07-18-26,laptop,Online,2,11,,3,,10-20L,"Reliance Digital, Amazon",,maybe,Battery issues
+R0323,Sanjay Sharma,sanjay.sharma71@outlook.com,61,Female,bengaluru ,Karnataka,2026-06-12,Smartphone,App,4,8,5,1,5000000,3-6L,"Amazon, Meesho",R0133,No,Delivery was late
+R0182,Meera Mehta,meera.mehta31@gmail.com,48,Male,Jaipur,Rajasthan,08-20-26,Speaker,Marketplace,Five,7,2,2,23988,6-10L,Meesho,,Yes,"Great product, fast delivery"
+R0044,Ritu Singh,,21,Female,lucknow,Uttar Pradesh,2026-02-22,Smart Watch,Store,4,7,4,1,15051,10-20L,"Amazon, Reliance Digital",,Yes,Packaging damaged
+R0443,Karan Gupta,karan.gupta68@outlook.com,39,Other,Bengaluru,Karnataka,05-21-26,Laptop,Marketplace,4,9,1,4,47627,20L+,"Tata Cliq, Reliance Digital",,Yes,Battery issues
+R0068,AARAV GUPTA,aarav.gupta3@gmail.com,47,Female,chennai,Tamil Nadu,09-05-26,Smartphone,Online,3,7,5,3,35610,6-10L,,,No,Support team was unhelpful
+R0081,Tanvi Das,tanvi.das28@yahoo.com,999,Female,Saharanpur,Uttar Pradesh,04-22-26,Tablet,Store,5,10,5,4,52162,6-10L,,R0037,Yes,Delivery was late
+R0281,Rohit Verma,rohit.verma42@gmail.com,45,Female,Hyderabad,Telangana,2026-03-16,Headphones,Marketplace,5,9,4,4,45944,10-20L,"Flipkart, Meesho",R0198,No,Packaging damaged
+R0141,SWATI SHARMA,swati.sharma47@gmail.com,51,MALE,Chennai,Tamil Nadu,02/06/2026,Smartphone,Store,2,4,4,3,1487,3-6L,"Tata Cliq, Amazon",,No,Value for money
+R0349,Karan Patel,karan.patel37@yahoo.com,23,Female,Jaipur,Rajasthan,06/08/2026,smartphone,App,3,4,4,2,11217,10-20L,,,No,Delivery was late
+R0169,Kavya Das,kavya.das67@gmail.com,27,Other,Mumbai,Maharashtra,05-24-26,smartphone,Store,4,9,4,1,45331,20L+,"Tata Cliq, Amazon",,No,Too expensive
+R0003,Isha Das,isha.das99@gmail.com,28,Male,Pune,Maharashtra,23-Apr-2026,Smartphone,App,4,7,4,3,4837,3-6L,"Flipkart, Reliance Digital",,No,
+R0258,Deepak Malik,deepak.malik41@yahoo.com,65,Male,Pune,Maharashtra,08/07/2026,Headphones,Online,5,10,5,5,12942,10-20L,"Croma, Meesho, Flipkart",,Yes,Delivery was late
+R0012,Divya Yadav,divya.yadav15@yahoo.com,999,Male,Madras,Tamil Nadu,2026-06-19,Smartphone,Marketplace,4,9,3,3,29099,20L+,,R0005,No,Average experience
+R0455,Manish Malik,manish.malik3@yahoo.com,58,Other,Bengaluru,Karnataka,02/01/2026,Smart Watch,App,4,9,1,4,13175,3-6L,,,No,Packaging damaged
+R0477,SANJAY NAIR,sanjay.nair81@outlook.com,65,Female,Mumbai,Maharashtra,28/07/2026,Speaker,Marketplace,3,6,2,1,48339,6-10L,Meesho,R0299,No,Battery issues
+R0037,Rahul Singh,rahul.singh20@gmail.com,37,Male,Saharanpur ,Uttar Pradesh,2026-02-13,speaker,Online,4,9,3,4,43880,10-20L,"Tata Cliq, Reliance Digital, Meesho",,No,Value for money
+R0257,Rohit Verma,rohit.verma29@outlook.com,63,Other,Jaipur,Rajasthan,16-Jul-2026,Smartphone,Store,1,1,5,4,6427,6-10L,Tata Cliq,R0244,Yes,
+R0199,Rahul Singh,rahul.singh35@gmail.com,52,Other,New Delhi,Delhi,08-05-26,Smartphone,App,3,6,4,5,26078,6-10L,,,No,Delivery was late
+R0261,Sneha Reddy,sneha.reddy76@yahoo.com,29,Other,Kolkata,West Bengal,21-Sep-2026,Speaker,Marketplace,5,7,2,,8285,3-6L,"Reliance Digital, Croma, Flipkart",,No,
+R0172,DIVYA CHOPRA,divya.chopra35@gmail.com,57,MALE,Jaipur,Rajasthan,21-Jun-2026,Smart Watch,Store,5,9,5,2,34575,6-10L,Croma,R0150,Yes,
+R0271,Suresh Mehta,suresh.mehta20@yahoo.com,26,Other,jaipur,Rajasthan,11/01/2026,Laptop,Online,2,1,3,4,39630,<3L,"Reliance Digital, Croma, Tata Cliq",,No,Delivery was late
+R0224,Swati Joshi,swati.joshi62@outlook.com,25,Female,Delhi,Delhi,01-23-26,Smart Watch,Marketplace,4,5,5,2,50435,3-6L,"Reliance Digital, Meesho, Flipkart",R0116,No,Delivery was late
+R0463,Vikram Iyer,vikram.iyer47@yahoo.com,50,Other,Lucknow,Uttar Pradesh,2026-07-09,Smart Watch,Online,3,5,5,1,41461,10-20L,,,No,Value for money
+R0462,Pooja Patel,pooja.patel63@outlook.com,150,Male,BLR,Karnataka,02-Sep-2026,Laptop,Store,4,6,3,5,41240,<3L,"Reliance Digital, Meesho",,Yes,Too expensive
+R0424,Ritu Mehta,ritu.mehta9@outlook.com,49,Male,Lucknow,Uttar Pradesh,01-16-26,Speaker,Online,5,10,3,3,26273,6-10L,"Meesho, Croma, Tata Cliq",R0398,No,Battery issues
+R0139,MEERA KHAN,meera.khan34@gmail.com,28,M,Pune,Maharashtra,13/07/2026,Tablet,App,4,8,,5,53506,6-10L,"Flipkart, Amazon, Meesho",,Yes,Battery issues
+R0084,Tanvi Malik,tanvi.malik38@outlook.com,31,M,Lakhnau,Uttar Pradesh,04-07-26,smart watch,Online,4,9,2,4,42317/-,20L+,,R0031,Yes,Will buy again
+R0059,Suresh Iyer,,29,Female,Kolkata,West Bengal,2026-01-20,Headphones,Marketplace,5,9,5,5,32869,3-6L,"Croma, Flipkart, Amazon",,No,Support team was unhelpful
+R0154,Ritu Joshi,ritu.joshi78@outlook.com,47,Other,Saharanpur,Uttar Pradesh,2026-07-27,headphones,Marketplace,5,,5,5,39415,20L+,,,Yes,Excellent service
+R0402,Nikhil Joshi,nikhil.joshi24@outlook.com,63,Male,Hyderabad,Telangana,02-01-26,Headphones,Store,2,3,5,,12908,<3L,,R0091,Yes,Support team was unhelpful
+R0425,Rahul Mehta,rahul.mehta37@outlook.com,57,Female,Chennai,Tamil Nadu,18-May-2026,Headphones,Store,4,7,5,2,23340,6-10L,Croma,,No,Battery issues
+R0422,Rohit Iyer,rohit.iyer26@gmail.com,55,Other,Bengaluru,Karnataka,21/01/2026,Smart Watch,Online,4,9,3,1,33936,<3L,,R0383,No,Average experience
+R0087,Isha Iyer,isha.iyer10@outlook.com,32,Other,Jaipur,Rajasthan,13-Jun-2026,Speaker,Online,3,6,2,2,53213,20L+,,,No,Delivery was late
+R0479,Anjali Yadav,anjali.yadav29@yahoo.com,23,Other,Mumbai,Maharashtra,2026-07-14,Headphones,Store,4,5,4,4,-2000,20L+,"Reliance Digital, Amazon",R0263,Y,Value for money
+R0351,Meera Reddy,meera.reddy54@gmail.com,19,Female,Lucknow,Uttar Pradesh,31-May-2026,Speaker,Online,4,6,5,1,23912,<3L,"Flipkart, Meesho, Amazon",,Yes,Support team was unhelpful
+R0385,  amit malik ,amit.malik28@outlook.com,63,Other,Delhi,Delhi,03-10-26,Speaker,App,4,8,3,,37846,20L+,"Flipkart, Tata Cliq, Croma",,Yes,Average experience
+R0076,Anjali Mehta,anjali.mehta81@gmail.com,39,Female,Bengaluru,Karnataka,04-29-26,Smartphone,Store,4,8,4,5,28651,10-20L,,R0056,Yes,Value for money
+R0010,Amit Patel,,31,Male,Hyderabad,Telangana,05-16-26,Speaker,Marketplace,4,6,3,1,732,6-10L,Meesho,,No,Support team was unhelpful
+R0472,Sanjay Reddy,sanjay.reddy89@outlook.com,64,Male,Hyderabad,Telangana,07-09-26,Tablet,App,2,1,5,5,46869,<3L,"Croma, Tata Cliq",R0421,Yes,"Great product, fast delivery"
+R0183,AARAV CHOPRA,aarav.chopra55@yahoo.com,42,Other,Mumbai,Maharashtra,17-Jan-2026,Tablet,Store,6,9,1,5,58227,6-10L,,,No,"Great product, fast delivery"
+R0064,Ritu Yadav,ritu.yadav70@gmail.com,33,Male,Delhi,Delhi,13/08/2026,laptop,App,4,8,2,5,21399,20L+,"Flipkart, Croma",,Yes,
+R0305,Anjali Reddy,anjali.reddy3@gmail.com,27,Male,Calcutta,West Bengal,08-Aug-2026,Laptop,Online,5,10,5,3,31552,20L+,,,No,Value for money
+R0259,Ritu Reddy,ritu.reddy81@gmail.com,50,Other,Lucknow,Uttar Pradesh,05-21-26,Smart Watch,Online,5,,3,2,54756,3-6L,Meesho,,Yes,Support team was unhelpful
+R0333,Swati Sharma,,23,Female,Jaipur,Rajasthan,2026-06-30,Tablet,Store,5,9,2,5,26421,3-6L,"Flipkart, Croma",,No,Packaging damaged
+R0035,  karan khan ,karan.khan94@gmail.com,32,Other,Kolkata,West Bengal,07-24-26,Headphones,App,4,8,2,4,4899,<3L,,R0021,Yes,Packaging damaged
+R0115,Karan Gupta,karan.gupta65@outlook.com,,Female,hyderabad,Telangana,09/03/2026,Speaker,Online,3,5,3,,31981,20L+,"Meesho, Tata Cliq, Croma",,No,"Great product, fast delivery"
+R0009,Karan Yadav,karan.yadav41@gmail.com,33,Male,Saharanpur ,Uttar Pradesh,06-03-26,Smart Watch,Online,4.5,4,1,5,14469,20L+,"Flipkart, Croma",,Yes,Value for money
+R0161,Sneha Chopra,,63,Female,Lucknow,Uttar Pradesh,05-20-26,Smart Watch,App,5,7,2,5,20312,3-6L,,,No,"Great product, fast delivery"
+R0468,Manish Malik,manish.malik76@gmail.com,18,Male,Delhi,Delhi,2026-01-14,Tablet,Store,5,8,5,5,1359,3-6L,"Croma, Reliance Digital, Tata Cliq",R0213,No,Battery issues
+R0372,Karan Patel,karan.patel4@yahoo.com,58,Male,jaipur,Rajasthan,2026-06-14,Speaker,Store,3,5,4,1,35855,10-20L,Flipkart,R0241,Yes,"Great product, fast delivery"
+R0034,Tanvi Mehta,tanvi.mehta52@yahoo.com,47,Female,Lucknow,Uttar Pradesh,02-01-26,Speaker,Marketplace,4,5,1,1,21609,20L+,Amazon,,Yes,Battery issues
+R0027,SURESH YADAV,suresh.yadav13@yahoo.com,49,Male,Bengaluru,Karnataka,15-Sep-2026,Speaker,Store,5,8,4,2,5403,10-20L,"Croma, Tata Cliq",R0015,No,
+R0104,Suresh Yadav,suresh.yadav34@yahoo.com,61,Other,saharanpur,Uttar Pradesh,12-Sep-2026,Smartphone,Store,2,1,3,2,45478,20L+,"Meesho, Croma, Tata Cliq",,Yes,
+R0433,Priya Verma,priya.verma87@yahoo.com,26,Other,jaipur,Rajasthan,09-28-26,Smart Watch,Marketplace,1,2,5,,52036,20L+,"Croma, Tata Cliq, Reliance Digital",,Yes,Too expensive
+R0353,Anjali Yadav,anjali.yadav85@gmail.com,35,Other,Lucknow,Uttar Pradesh,01-10-26,Speaker,App,1,15,1,2,15234,<3L,"Flipkart, Amazon",R0237,No,Average experience
+R0155,Pooja Joshi,pooja.joshi60@outlook.com,45,Other,BLR,Karnataka,22/09/2026,Tablet,Online,3,3,2,5,59110,20L+,Reliance Digital,,No,Will buy again
+R0260,Pooja Patel,,62,Male,Pune,Maharashtra,19/02/2026,Speaker,App,5,10,4,2,38324,3-6L,"Meesho, Reliance Digital, Croma",,Yes,Value for money
+R0356,Pooja Sharma,pooja.sharma75outlook.com,39,Female,Madras,Tamil Nadu,02-20-26,Smart Watch,Store,5,8,1,5,15192,3-6L,,,No,"Great product, fast delivery"
+R0014,Rahul Verma,rahul.verma6@gmail.com,,Other,Poona,Maharashtra,2026-03-17,Smartphone,Marketplace,3,4,4,5,13242,10-20L,"Reliance Digital, Flipkart, Tata Cliq",,Yes,Delivery was late
+R0286,Rohit Das,rohit.das58@gmail.com,31,Other,Pune,Maharashtra,24-Mar-2026,smart watch,Online,5,8,4,2,14185,20L+,,R0185,Yes,Average experience
+R0120,Deepak Sharma,deepak.sharma78@gmail.com,40,Female,Mumbai,Maharashtra,29-May-2026,Smart Watch,Marketplace,5,7,1,4,5000000,20L+,Flipkart,R0119,maybe,Too expensive
+R0346,Divya Chopra,divya.chopra24yahoo.com,28,Other,Delhi,Delhi,2026-06-22,Laptop,Online,4,7,4,5,30413,20L+,"Meesho, Reliance Digital, Tata Cliq",R0240,Yes,Battery issues
+R0310,POOJA IYER,pooja.iyer97@yahoo.com,55,F,Pune,Maharashtra,2026-05-31,Tablet,Marketplace,4,6,1,1,4084,6-10L,,R0004,No,Average experience
+R0420,Amit Nair,amit.nair21@gmail.com,,Female,Mumbai,Maharashtra,20-Aug-2026,Smartphone,Store,4,6,1,2,32097,10-20L,Amazon,R0170,No,
+R0041,Nikhil Verma,nikhil.verma68@outlook.com,59,Female,Chennai,Tamil Nadu,08-13-26,Headphones,App,2,2,4,4,51255,6-10L,,,No,Delivery was late
+R0405,Meera Chopra,meera.chopra9@yahoo.com,49,Other,Bengaluru,Karnataka,2026-06-30,Headphones,Store,5,7,2,5,32889,3-6L,"Reliance Digital, Amazon, Croma",,Yes,Will buy again
+R0390,Priya Chopra,,65,Male,Jaipur,Rajasthan,18-Sep-2026,Smart Watch,Store,4,6,2,3,5281,3-6L,"Flipkart, Tata Cliq, Amazon",R0110,Yes,Packaging damaged
+R0223,  kavya das ,kavya.das17@outlook.com,28,Other,jaipur,Rajasthan,09-06-26,smartphone,Store,2,-1,4,4,2636,3-6L,"Amazon, Tata Cliq",,No,Delivery was late
+R0410,Rohit Chopra,rohit.chopra8@outlook.com,46,Male,Pune,Maharashtra,27/04/2026,smartphone,Store,2,,4,1,5000000,3-6L,Flipkart,,Yes,Too expensive
+R0163,Manish Verma,,52,Male,Pune,Maharashtra,19/05/2026,Smartphone,App,3,5,5,3,35927,10-20L,,,Yes,"Great product, fast delivery"
+R0465,Harsh Das,harsh.das14@yahoo.com,41,Female,bengaluru ,Karnataka,09/08/2026,Smartphone,Marketplace,4,9,1,4,19611,10-20L,Croma,,No,Battery issues
+R0489,Rohit Sharma,rohit.sharma90@outlook.com,29,Other,Saharanpur ,Uttar Pradesh,2026-09-28,Smartphone,Store,4,9,4,1,18304,6-10L,Flipkart,,No,Packaging damaged
+R0038,Harsh Patel,harsh.patel17@yahoo.com,38,Male,Lucknow,Uttar Pradesh,09/08/2026,Tablet,App,2,4,1,4,56976,<3L,"Amazon, Reliance Digital, Meesho",,No,Average experience
+R0030,Karan Nair,karan.nair40@yahoo.com,61,Other,Lucknow,Uttar Pradesh,2026-02-19,Laptop,Online,5,8,3,3,49486,10-20L,Flipkart,R0012,Yes,Too expensive
+R0466,Amit Chopra,amit.chopra99@gmail.com,50,Female,Lakhnau,Uttar Pradesh,2026-09-16,Laptop,Store,4,9,3,3,48046,3-6L,"Tata Cliq, Amazon, Croma",,Yes,Battery issues
+R0394,Vikram Malik,vikram.malik50@outlook.com,61,Other,Bombay,Maharashtra,2026-01-02,Smartphone,Online,3,6,1,4,37953,10-20L,"Meesho, Tata Cliq",R0115,No,Excellent service
+R0128,Rohit Patel,rohit.patel74@outlook.com,52,Female,Hyderabad,Telangana,2026-01-03,Speaker,Store,4,6,3,4,24241,<3L,Reliance Digital,R0001,No,Battery issues
+R0152,Rahul Joshi,rahul.joshi40@outlook.com,26,Other,Chennai,Tamil Nadu,14/04/2026,Laptop,Marketplace,3,4,2,5,10857,6-10L,,,Yes,Support team was unhelpful
+R0254,Sanjay Singh,sanjay.singh44@gmail.com,36,Female,Mumbay,Maharashtra,2026-05-22,Smart Watch,Online,2,1,1,1,17937,<3L,,,Yes,Value for money
+R0210,Karan Chopra,karan.chopra75@gmail.com,29,female,Lucknow,Uttar Pradesh,20/05/2026,Laptop,Marketplace,5,10,1,2,50848,10-20L,,,No,"Great product, fast delivery"
+R0022,Meera Nair,meera.nair57@yahoo.com,57,Female,Hyderabad,Telangana,07-14-26,Headphones,Online,3,15,5,1,50486,3-6L,Croma,,Yes,Support team was unhelpful
+R0326,Pooja Reddy,pooja.reddy74@yahoo.com,,Male,Saharanpur,Uttar Pradesh,16/09/2026,Laptop,Marketplace,2,4,1,2,8416,10-20L,"Tata Cliq, Reliance Digital",,Yes,Support team was unhelpful
+R0107,Priya Patel,priya.patel56@outlook.com,47,Female,lucknow,Uttar Pradesh,26-Sep-2026,Smart Watch,App,4,15,2,,59934,10-20L,,,Y,Value for money
+R0303,Sneha Das,,33,Female,Mumbai,Maharashtra,06-Apr-2026,Headphones,App,1,2,1,5,6009,6-10L,"Flipkart, Meesho, Reliance Digital",,No,Too expensive
+R0347,  deepak sharma ,deepak.sharma73@gmail.com,50,Male,Bengaluru,Karnataka,26/09/2026,Smartphone,App,2,3,2,3,30562,10-20L,Reliance Digital,R0171,Yes,
+R0191,  pooja patel ,pooja.patel98@gmail.com,58,Male,Chennai,Tamil Nadu,10/04/2026,Tablet,App,5,10,3,3,18290,6-10L,,,No,Support team was unhelpful
+R0423,Rohit Singh,rohit.singh73@gmail.com,50,Female,Bengaluru,Karnataka,2026-09-02,Speaker,App,2,1,2,3,27133,<3L,"Amazon, Croma, Reliance Digital",R0386,Yes,Value for money
+R0482,Aarav Reddy,aarav.reddy29@outlook.com,42,Male,Delhi,Delhi,29/03/2026,Smartphone,Marketplace,4,5,3,1,51440,6-10L,"Amazon, Croma, Reliance Digital",R0346,Yes,Delivery was late
+R0050,Anjali Das,anjali.das31@yahoo.com,41,Other,Bengaluru,Karnataka,13/04/2026,Headphones,Marketplace,4,5,5,2,40604,<3L,,R0036,No,Packaging damaged
+R0131,Karan Joshi,karan.joshi72@gmail.com,54,Female,Jaipur,Rajasthan,2026-07-28,Smartphone,App,1,0,5,5,16893,10-20L,"Tata Cliq, Reliance Digital, Flipkart",,No,Excellent service
+R0275,Manish Iyer,manish.iyer73@gmail.com,28,Other,Delhi,Delhi,2026-05-29,Laptop,Marketplace,4,6,4,5,57533,20L+,,,Yes,Excellent service
+R0274,Swati Nair,swati.nair13@gmail.com,20,Other,Mumbai,Maharashtra,04-09-26,Headphones,App,4,6,4,2,35467,3-6L,,,Yes,Value for money
+R0123,Deepak Khan,deepak.khan84@gmail.com,31,Male,Hyderabad,Telangana,05-14-26,Tablet,App,5,10,2,4,33341,20L+,,,No,Will buy again
+R0036,Ritu Patel,ritu.patel29gmail.com,24,Other,Saharanpur,Uttar Pradesh,03-21-26,Headphones,Online,4,6,3,5,15321,10-20L,,,maybe,"Great product, fast delivery"
+R0287,Amit Nair,amit.nair61@yahoo.com,40,Female,Saharanpur ,Uttar Pradesh,24-Aug-2026,Speaker,Store,2,2,1,5,32498,<3L,"Croma, Reliance Digital",,Y,Average experience
+R0399,Tanvi Gupta,tanvi.gupta3@outlook.com,36,Female,saharanpur,Uttar Pradesh,07-01-26,Laptop,App,4,5,,2,34147,6-10L,,,No,Will buy again
+R0007,  priya yadav ,priya.yadav25@gmail.com,,Other,Mumbai,Maharashtra,25/02/2026,smart watch,Store,4,7,4,2,18754,10-20L,Amazon,,No,Too expensive
+R0283,Deepak Chopra,deepak.chopra61@yahoo.com,27,Female,Jaipur,Rajasthan,13-Mar-2026,Speaker,Online,5,10,3,1,10716,<3L,,,Yes,Too expensive
+R0439,Neha Patel,neha.patel76@yahoo.com,57,Male,Poona,Maharashtra,23-Mar-2026,smartphone,Online,5,9,1,,35913,10-20L,"Amazon, Flipkart, Meesho",,Yes,Excellent service
+R0192,Isha Das,isha.das10@gmail.com,62,Male,Chennai,Tamil Nadu,08-02-26,smart watch,App,5,7,3,3,9610,10-20L,"Flipkart, Croma",,Yes,Delivery was late
+R0151,Manish Patel,manish.patel88@yahoo.com,49,Female,Saharanpur,Uttar Pradesh,10-Jan-2026,Laptop,App,3,4,1,3,58084,10-20L,,,No,Value for money
+R0221,SWATI DAS,swati.das66outlook.com,51,Other,Bengaluru,Karnataka,2026-04-20,Laptop,Online,5,9,1,5,39330,6-10L,Croma,R0088,No,Too expensive
+R0236,Neha Malik,neha.malik26@gmail.com,64,Male,Lucknow,Uttar Pradesh,06/05/2026,Smartphone,Store,2,5,4,1,22676,3-6L,"Reliance Digital, Flipkart",R0068,No,Will buy again
+R0043,Ritu Khan,ritu.khan6@yahoo.com,28,Other,Bengaluru,Karnataka,03-26-26,Laptop,Marketplace,2,5,5,3,49808,10-20L,Tata Cliq,,Yes,Battery issues
+R0448,SNEHA NAIR,sneha.nair64@outlook.com,53,Other,Chennai,Tamil Nadu,03-11-26,Headphones,Online,5,10,5,1,52020,6-10L,Croma,,No,Battery issues
+R0388,  karan nair ,karan.nair15@outlook.com,57,male,Bengaluru,Karnataka,07-19-26,Laptop,App,5,10,2,2,54081,10-20L,Reliance Digital,,Yes,Will buy again
+R0328,DEEPAK MEHTA,deepak.mehta6@outlook.com,36,Other,Jaipur,Rajasthan,02/04/2026,Laptop,Marketplace,3,5,5,3,38192,20L+,"Amazon, Croma",,No,Support team was unhelpful
+R0200,Pooja Patel,pooja.patel92@outlook.com,37,Female,New Delhi,Delhi,2026-04-26,Smartphone,Marketplace,5,10,4,2,23261,<3L,"Tata Cliq, Croma",R0087,No,
+R0006,Manish Joshi,manish.joshi76@gmail.com,33,Male,mumbai,Maharashtra,11/01/2026,Smartphone,Online,3,5,2,1,59837,<3L,"Amazon, Tata Cliq",,Yes,Battery issues
+R0024,Harsh Iyer,harsh.iyer75@yahoo.com,48,Female,Bengaluru,Karnataka,23/05/2026,Smartphone,Marketplace,,8,3,4,22343,6-10L,,,Yes,Will buy again
+R0469,Sneha Chopra,sneha.chopra29@gmail.com,thirty,male,Chennai,Tamil Nadu,25-Feb-2026,Headphones,Online,5,9,,2,50079,10-20L,Flipkart,,Yes,Value for money
+R0403,Tanvi Patel,tanvi.patel94@gmail.com,28,Female,Lucknow,Uttar Pradesh,10-Sep-2026,Smartphone,Marketplace,1,0,,1,21366,20L+,"Meesho, Tata Cliq",,Yes,Average experience
+R0306,Isha Patel,isha.patel91@yahoo.com,34,Other,Kolkata,West Bengal,30-Jun-2026,Tablet,Marketplace,3,3,1,3,45443,20L+,,,Yes,Packaging damaged
+R0042,Tanvi Khan,tanvi.khan83@yahoo.com,56,Other,Bengaluru,Karnataka,06-08-26,Speaker,Online,4,5,4,5,24212,<3L,"Croma, Flipkart",,yes,Will buy again
+R0371,Kavya Sharma,kavya.sharma32@gmail.com,64,Male,Lucknow,Uttar Pradesh,24/01/2026,Tablet,Store,4,7,2,,50457,<3L,,,Yes,
+R0107,Priya Patel,priya.patel56@outlook.com,47,Female,lucknow,Uttar Pradesh,26-Sep-2026,Smart Watch,App,4,15,2,,59934,10-20L,,,Y,Value for money
+R0118,Isha Mehta,isha.mehta47@yahoo.com,23,Other,Jaipur,Rajasthan,19-Jun-2026,Tablet,Marketplace,3,15,5,1,8018,6-10L,"Flipkart, Tata Cliq, Meesho",R0097,Yes,
+R0167,Ritu Mehta,ritu.mehta1@outlook.com,26,Female,jaipur,Rajasthan,2026-07-09,Smartphone,App,5,7,1,,28792,20L+,"Meesho, Croma, Reliance Digital",,No,Packaging damaged
+R0313,Anjali Reddy,anjali.reddy23@outlook.com,50,Female,Chennai,Tamil Nadu,2026-07-19,Smart Watch,Store,,7,3,3,26316,<3L,"Reliance Digital, Meesho, Flipkart",R0289,No,Support team was unhelpful
+R0220,Meera Sharma,meera.sharma54@yahoo.com,20,Other,Jaipur,Rajasthan,30-Jan-2026,Tablet,App,4,6,3,3,1017,6-10L,Meesho,,No,Excellent service
+R0265,Manish Nair,manish.nair4@outlook.com,44,Male,Bangalore,Karnataka,08-11-26,Tablet,Online,5,9,5,4,4822,6-10L,,R0139,No,Will buy again
+R0357,Neha Singh,,150,Female,Kolkata,West Bengal,09-Mar-2026,Laptop,Marketplace,5,9,2,2,30738,20L+,,R0237,No,Support team was unhelpful
+R0147,Nikhil Das,nikhil.das11@gmail.com,24,Female,hyderabad,Telangana,01-20-26,Headphones,Marketplace,4,7,4,1,57502,3-6L,,,No,"Great product, fast delivery"
+R0232,Pooja Verma,pooja.verma32@gmail.com,19,Female,Mumbai,Maharashtra,21-Jun-2026,Smartphone,App,Five,5,5,2,5278,20L+,"Amazon, Reliance Digital, Meesho",,Yes,"Great product, fast delivery"
+R0021,Pooja Gupta,pooja.gupta6@gmail.com,29,Other,Saharanpur,Uttar Pradesh,06-Mar-2026,Laptop,Marketplace,3,7,1,1,38121,6-10L,"Reliance Digital, Meesho, Croma",,Yes,"Great product, fast delivery"
+R0166,Pooja Khan,pooja.khan64@outlook.com,56,Male,Mumbai,Maharashtra,14-Jul-2026,Laptop,Store,2,5,5,1,50115,3-6L,Reliance Digital,,No,Packaging damaged
+R0100,Sneha Malik,,54,Other,Mumbai,Maharashtra,06-26-26,Tablet,Marketplace,5,9,1,2,18549,10-20L,Tata Cliq,,No,"Great product, fast delivery"
+R0400,Ritu Sharma,ritu.sharma50@gmail.com,19,Female,Hyderabad,Telangana,08-29-26,Speaker,Marketplace,3,4,3,3,53134,20L+,"Reliance Digital, Croma, Flipkart",,No,Battery issues
+R0078,Arjun Nair,arjun.nair50@outlook.com,40,Female,Delhi,Delhi,11/03/2026,Smart Watch,Marketplace,5,10,4,4,32527,3-6L,,,Yes,Value for money
+R0072,Pooja Patel,pooja.patel39@yahoo.com,27,Female,Kolkata,West Bengal,05-22-26,Headphones,Store,1,2,4,5,40914,3-6L,"Amazon, Flipkart, Croma",,Yes,Packaging damaged
+R0442,Nikhil Chopra,nikhil.chopra97@outlook.com,46,Male,Saharanpur,Uttar Pradesh,05-Aug-2026,Smartphone,Store,,3,3,4,6609,10-20L,"Flipkart, Amazon",,no,Value for money
+R0332,Vikram Iyer,vikram.iyer35@outlook.com,49,Male,Calcutta,West Bengal,15-Jan-2026,Tablet,App,4,6,3,,27450,10-20L,"Reliance Digital, Meesho, Croma",R0210,Yes,Battery issues
+R0329,Aarav Nair,aarav.nair4@yahoo.com,52,Female,delhi,Delhi,01-04-26,Speaker,Marketplace,4,6,5,2,54962,10-20L,"Amazon, Meesho",R0293,No,Packaging damaged
+R0480,PRIYA GUPTA,priya.gupta69@gmail.com,31,Female,Kolkata,West Bengal,07-23-26,Speaker,Marketplace,4,5,5,2,12732,<3L,,,Yes,
+R0209,Swati Reddy,swati.reddy56@gmail.com,36,Male,Jaipur,Rajasthan,16-May-2026,Tablet,Marketplace,0,9,1,2,10240,<3L,Flipkart,R0126,Yes,Excellent service
+R0203,Suresh Iyer,suresh.iyer36@yahoo.com,45,Other,Pune,Maharashtra,31/03/2026,smartphone,Marketplace,3,3,5,3,46350,<3L,"Tata Cliq, Reliance Digital",,No,
+R0193,Sneha Sharma,sneha.sharma9@yahoo.com,55,Male,Chennai,Tamil Nadu,2026-05-10,smartphone,Store,1,0,,2,12609,6-10L,,,Yes,Support team was unhelpful
+R0215,  vikram joshi ,vikram.joshi61@gmail.com,19,female,Jaipur,Rajasthan,08-16-26,Laptop,Store,2,2,3,5,54858,10-20L,,,No,"Great product, fast delivery"
+R0205,Ritu Das,ritu.das81@yahoo.com,65,Male,Chennai,Tamil Nadu,27/01/2026,Smartphone,Marketplace,3,3,2,3,21060,20L+,,,Yes,Support team was unhelpful
+R0016,Aarav Chopra,aarav.chopra54@outlook.com,42,female,Hyderabad,Telangana,06-02-26,Tablet,Store,4,7,4,2,18387,10-20L,"Amazon, Reliance Digital, Croma",,No,Support team was unhelpful
+R0237,Ritu Khan,ritu.khan20@yahoo.com,20,Female,Pune,Maharashtra,07-Apr-2026,Laptop,Marketplace,5,10,2,1,51923,10-20L,,R0162,Yes,Too expensive
+R0101,Neha Singh,neha.singh78@outlook.com,65,M,Lucknow,Uttar Pradesh,05-18-26,Smart Watch,Marketplace,4,7,5,3,54306,<3L,Amazon,R0057,No,Too expensive
+R0428,Harsh Patel,harsh.patel98@gmail.com,40,Female,Madras,Tamil Nadu,12-Jan-2026,Laptop,Online,5,15,2,1,37936,20L+,"Reliance Digital, Amazon",R0423,Yes,Value for money
+R0314,Harsh Iyer,harsh.iyer9@gmail.com,24,Male,Pune,Maharashtra,07-16-26,Smartphone,Online,5,8,4,3,40249,<3L,Croma,,Yes,Excellent service
+R0061,Neha Singh,neha.singh90@outlook.com,27,Other,Kolkata,West Bengal,07-11-26,Speaker,Store,4,9,2,5,57721,<3L,"Tata Cliq, Croma, Amazon",,Yes,"Great product, fast delivery"
+R0421,Ritu Nair,ritu.nair82@outlook.com,46,Male,Delhi,Delhi,11-Jan-2026,Headphones,Marketplace,4,8,5,4,4886,<3L,,R0243,No,
+R0092,Kavya Sharma,kavya.sharma81@outlook.com,35,Female,Mumbay,Maharashtra,13/04/2026,Speaker,App,Five,6,4,5,51712,10-20L,"Tata Cliq, Meesho",,No,Packaging damaged
+R0132,Nikhil Chopra,nikhil.chopra71@gmail.com,33,Female,lucknow,Uttar Pradesh,2026-06-25,laptop,App,3,6,2,2,33202,3-6L,Meesho,,Yes,Battery issues
+R0298,Aarav Verma,aarav.verma10@gmail.com,38,Female,Bengaluru,Karnataka,03/07/2026,laptop,App,4,6,1,1,21379,<3L,"Flipkart, Reliance Digital",,No,Value for money
+R0289,  ritu iyer ,ritu.iyer28@gmail.com,21,Other,Jaipur,Rajasthan,08-09-26,Smart Watch,App,5,9,3,2,5978,3-6L,,R0012,No,Packaging damaged
+R0295,Harsh Patel,harsh.patel15@yahoo.com,35,Male,Delhi,Delhi,2026-01-12,Smartphone,Store,2,2,3,3,59128,3-6L,,,Yes,Excellent service
+R0181,ARJUN JOSHI,arjun.joshi82@outlook.com,28,Other,Jaipur,Rajasthan,01/06/2026,Tablet,Store,5,8,1,4,56662,20L+,"Flipkart, Tata Cliq, Reliance Digital",,no,Battery issues
+R0185,Kavya Singh,kavya.singh88@outlook.com,51,Female,Pune,Maharashtra,05-31-26,Headphones,Marketplace,5,7,4,1,19604,3-6L,,,Yes,Value for money
+R0190,Sneha Yadav,sneha.yadav98@yahoo.com,44,Male,Lucknow,Uttar Pradesh,2026-01-15,Tablet,App,2,2,5,4,37565,10-20L,"Meesho, Reliance Digital",,Yes,Will buy again
+R0178,Rohit Sharma,rohit.sharma89@yahoo.com,29,Male,Delhi,Delhi,05-26-26,Laptop,App,5,-1,5,4,27502,3-6L,Tata Cliq,,Yes,Average experience
+R0054,Swati Reddy,swati.reddy71@yahoo.com,41,F,Jaipur,Rajasthan,10-Apr-2026,Tablet,App,1,0,5,5,8286,3-6L,,R0033,No,Will buy again
+R0176,Isha Chopra,isha.chopra52gmail.com,19,Other,Calcutta,West Bengal,2026-06-22,Tablet,Marketplace,1,0,5,2,49065,20L+,Amazon,R0168,Yes,Support team was unhelpful
+R0384,Divya Verma,,,Female,Bengaluru,Karnataka,2026-03-07,smartphone,Store,5,8,3,5,54310,3-6L,"Croma, Tata Cliq, Amazon",,No,Average experience
+R0476,  harsh patel ,harsh.patel81@gmail.com,52,Male,Jaipur,Rajasthan,09-Jun-2026,Smart Watch,Store,2,5,1,1,₹44259,20L+,"Tata Cliq, Reliance Digital, Meesho",,Yes,"Great product, fast delivery"
+R0239,Divya Malik,divya.malik30@gmail.com,36,Male,Mumbai,Maharashtra,10-Feb-2026,Tablet,Store,0,10,3,,44743,6-10L,"Croma, Meesho",R0093,Yes,Average experience
+R0308,Rohit Iyer,rohit.iyer7@yahoo.com,18,Female,lucknow,Uttar Pradesh,2026-05-25,Speaker,Online,0,6,1,3,9525,6-10L,"Tata Cliq, Meesho",R0221,Yes,Delivery was late
+R0136,Ritu Patel,ritu.patel81@outlook.com,58,Male,Kolkata,West Bengal,06-22-26,Smartphone,Store,5,8,3,2,21044,6-10L,"Meesho, Croma",,No,Battery issues
+R0023,Sanjay Nair,sanjay.nair19gmail.com,45,Other,Pune,Maharashtra,18-Mar-2026,speaker,App,2,2,4,1,31216,6-10L,"Croma, Tata Cliq, Reliance Digital",R0010,No,Delivery was late
+R0020,Kavya Yadav,kavya.yadav52@outlook.com,46,Female,Kolkata,West Bengal,31/05/2026,Smart Watch,App,5,7,4,5,22178,6-10L,"Croma, Meesho, Tata Cliq",R0019,Yes,Delivery was late
+R0340,Manish Iyer,manish.iyer31@outlook.com,45,Female,Kolkata,West Bengal,2026-06-04,Speaker,Marketplace,4,7,,3,55461,20L+,"Tata Cliq, Amazon",,Yes,Support team was unhelpful
+R0097,Amit Yadav,amit.yadav20@gmail.com,37,Female,Lucknow,Uttar Pradesh,07-21-26,Smartphone,App,3,3,5,4,13585,<3L,,,Yes,Support team was unhelpful
+R0397,Arjun Gupta,arjun.gupta9@gmail.com,49,Female,Bengaluru,Karnataka,2026-01-19,Smartphone,App,3,7,3,2,49231,3-6L,Croma,R0028,Yes,Will buy again
+R0204,Tanvi Gupta,tanvi.gupta57@yahoo.com,53,Female,Lucknow,Uttar Pradesh,04/03/2026,Headphones,Online,3,5,2,3,14287,3-6L,"Meesho, Croma, Reliance Digital",R0101,Yes,Battery issues
+R0319,Sanjay Malik,sanjay.malik85@gmail.com,36,Male,Pune,Maharashtra,2026-09-03,Smart Watch,App,2,4,2,4,47235,6-10L,"Tata Cliq, Croma",R0279,Yes,Too expensive
+R0454,Suresh Patel,suresh.patel83@yahoo.com,48,Other,Bengaluru,Karnataka,09/01/2026,Tablet,Store,3,4,1,3,47767,6-10L,"Meesho, Amazon",,No,
+R0051,Sanjay Nair,sanjay.nair39@gmail.com,26,Male,Bengaluru,Karnataka,05/03/2026,headphones,App,4,5,1,3,₹13364,20L+,"Flipkart, Croma",R0046,Yes,Too expensive
+R0370,Manish Verma,manish.verma54@gmail.com,31,Other,Bengaluru,Karnataka,03-Jul-2026,Headphones,Marketplace,2,4,3,5,7839,10-20L,,R0047,Yes,Packaging damaged
+R0459,Neha Das,neha.das21@outlook.com,35,Other,Bengaluru,Karnataka,06-18-26,Laptop,Marketplace,4,9,4,2,5000000,10-20L,"Croma, Meesho",,Yes,"Great product, fast delivery"
+R0456,Divya Joshi,divya.joshi89@gmail.com,52,Male,Pune,Maharashtra,2026-08-09,Smart Watch,Online,3,11,2,4,27524,20L+,,R0071,Yes,
+R0125,Neha Mehta,neha.mehta78@gmail.com,40,Male,Jaipur,Rajasthan,09-07-26,Smart Watch,Store,5,9,,1,34220,6-10L,Flipkart,,Yes,Support team was unhelpful
+R0398,Meera Singh,meera.singh85@gmail.com,53,Male,chennai,Tamil Nadu,2026-05-08,Smartphone,Store,4,7,4,4,25362,10-20L,Amazon,,No,Excellent service
+R0071,  vikram khan ,vikram.khan1@yahoo.com,65,Female,Bengaluru,Karnataka,2026-02-24,Smartphone,Store,3,5,1,2,28744,10-20L,"Amazon, Meesho, Tata Cliq",,No,Too expensive
+R0467,VIKRAM IYER,vikram.iyer93@gmail.com,23,Other,mumbai,Maharashtra,08-21-26,Laptop,Store,2,5,5,1,41844,3-6L,"Flipkart, Meesho, Reliance Digital",,No,Value for money
+R0475,  tanvi verma ,tanvi.verma71@gmail.com,62,Female,bengaluru ,Karnataka,2026-06-24,Tablet,Store,4,8,4,3,6627,20L+,"Tata Cliq, Reliance Digital, Croma",,No,
+R0335,Kavya Patel,kavya.patel48@outlook.com,50,Female,Chennai,Tamil Nadu,09-12-26,Laptop,Online,3,3,4,2,29800,6-10L,"Tata Cliq, Amazon, Croma",,No,Support team was unhelpful
+R0058,Neha Sharma,neha.sharma43@outlook.com,32,Other,Chennai,Tamil Nadu,02-21-26,Laptop,Online,4,5,5,2,27167,10-20L,"Meesho, Flipkart, Croma",,No,Battery issues
+R0255,Divya Yadav,divya.yadav1@yahoo.com,42,Female,Jaipur,Rajasthan,2026-06-19,Speaker,Store,4,7,1,5,,20L+,"Meesho, Flipkart",,No,Excellent service
+R0445,Isha Patel,isha.patel70@outlook.com,33,Female,Mumbai,Maharashtra,18/06/2026,Smartphone,App,5,10,2,4,1855,<3L,Meesho,R0351,No,Support team was unhelpful
+R0240,Sanjay Mehta,sanjay.mehta67@outlook.com,43,Female,Bangalore,Karnataka,31/08/2026,Speaker,Marketplace,0,4,3,1,21017,3-6L,"Meesho, Reliance Digital, Flipkart",,No,Excellent service
+R0478,Rohit Das,rohit.das21@outlook.com,64,Other,Calcutta,West Bengal,2026-07-16,Smartphone,App,4,8,,4,34839,20L+,"Amazon, Flipkart",,Yes,Value for money
+R0170,Deepak Patel,deepak.patel95@outlook.com,58,Male,Delhi,Delhi,27-Jan-2026,Laptop,Online,4,6,3,3,9186,20L+,"Croma, Meesho",R0125,Y,Delivery was late
+R0029,Pooja Yadav,pooja.yadav89@yahoo.com,28,Female,Chennai,Tamil Nadu,06-03-26,Laptop,Marketplace,1,,4,1,16045,10-20L,"Tata Cliq, Croma",,No,"Great product, fast delivery"
+R0304,Priya Yadav,priya.yadav31@gmail.com,25,Female,Pune,Maharashtra,19-Jan-2026,Laptop,Marketplace,3,3,4,4,7139,3-6L,"Reliance Digital, Flipkart",,Yes,Value for money
+R0446,Sneha Chopra,,33,M,Delhi,Delhi,2026-04-02,Smart Watch,Online,1,1,4,5,18738,<3L,"Amazon, Croma",R0257,Yes,Packaging damaged
+R0359,ARJUN DAS,,54,Other,Lucknow,Uttar Pradesh,13/03/2026,Headphones,App,3,3,3,2,37700,6-10L,"Meesho, Reliance Digital, Croma",R0190,Yes,Support team was unhelpful
+R0355,Sneha Verma,sneha.verma21@outlook.com,31,Other,Jaipur,Rajasthan,29/05/2026,Smart Watch,App,3,3,2,4,59512,20L+,"Croma, Meesho",,Yes,
+R0344,Rohit Singh,rohit.singh28@outlook.com,55,Male,Saharanpur,Uttar Pradesh,2026-03-28,speaker,Store,4,5,3,2,49482,3-6L,"Amazon, Reliance Digital",,No,Support team was unhelpful
+R0002,Sneha Reddy,sneha.reddy49@gmail.com,56,Other,Saharanpur,Uttar Pradesh,2026-08-24,Headphones,App,3,3,5,2,46674,<3L,,,Yes,Battery issues
+R0225,Harsh Das,harsh.das80@outlook.com,53,Male,Lakhnau,Uttar Pradesh,13/02/2026,Tablet,Store,4,9,4,5,59276,<3L,,,maybe,"Great product, fast delivery"
+R0229,  rahul sharma ,rahul.sharma2@outlook.com,59,Other,Bengaluru,Karnataka,2026-09-01,Speaker,Marketplace,5,10,4,5,5818,<3L,,R0143,Y,
+R0392,Nikhil Malik,nikhil.malik98@gmail.com,36,MALE,jaipur,Rajasthan,2026-05-14,Smartphone,Marketplace,4,7,2,2,34462,<3L,"Reliance Digital, Amazon, Tata Cliq",,Yes,"Great product, fast delivery"
+R0060,Suresh Yadav,suresh.yadav1@yahoo.com,29,Female,Mumbay,Maharashtra,15/06/2026,Headphones,App,5,10,3,5,47874,20L+,,,No,
+R0473,Isha Yadav,isha.yadav19@outlook.com,56,Other,Hyderabad,Telangana,15-Feb-2026,Smart Watch,Store,4,8,2,3,37550,<3L,"Amazon, Tata Cliq",,No,Average experience
+R0130,Anjali Yadav,anjali.yadav5@outlook.com,46,Other,Kolkata,West Bengal,27/05/2026,Laptop,Store,,3,1,3,16179,<3L,Amazon,,No,Packaging damaged
+R0387,  pooja sharma ,pooja.sharma82@outlook.com,54,Other,hyderabad,Telangana,30/03/2026,Laptop,App,3,3,1,2,39803,6-10L,Reliance Digital,,Yes,Too expensive
+R0171,Vikram Chopra,vikram.chopra27@outlook.com,44,Female,Kolkata,West Bengal,14/08/2026,Smartphone,App,5,8,1,1,11483,10-20L,"Reliance Digital, Croma, Meesho",,Yes,Packaging damaged
+R0377,Aarav Verma,aarav.verma8@yahoo.com,63,Male,Lucknow,Uttar Pradesh,2026-04-17,Laptop,Marketplace,4,7,2,4,26124,20L+,Flipkart,R0247,No,Delivery was late
+R0011,Priya Malik,priya.malik80@outlook.com,31,Male,Saharanpur ,Uttar Pradesh,07-01-26,Laptop,Marketplace,4,5,1,2,48771/-,6-10L,"Meesho, Flipkart, Croma",R0004,Yes,Delivery was late
+R0127,Manish Yadav,manish.yadav69@outlook.com,27,Male,Jaipur,Rajasthan,2026-09-01,Smart Watch,Store,4,6,5,5,54732,<3L,"Tata Cliq, Reliance Digital, Croma",,Yes,Too expensive
+R0149,Arjun Nair,arjun.nair20@outlook.com,46,Male,Bengaluru,Karnataka,13-Apr-2026,Speaker,Online,1,0,2,5,10178,6-10L,,,No,Delivery was late
+R0202,  anjali patel ,anjali.patel93@yahoo.com,19,Male,Bengaluru,Karnataka,2026-04-01,Smartphone,App,3,5,5,3,57330,<3L,"Croma, Amazon, Reliance Digital",,Yes,Value for money
+R0083,Pooja Singh,pooja.singh79@outlook.com,26,MALE,Jaipur,Rajasthan,2026-02-05,Laptop,Store,4,6,4,,45494,10-20L,Amazon,R0045,Yes,Support team was unhelpful
+R0113,Nikhil Yadav,nikhil.yadav44@yahoo.com,63,MALE,Saharanpur ,Uttar Pradesh,2026-04-24,Tablet,App,4,5,1,1,59277,3-6L,"Flipkart, Reliance Digital, Amazon",,No,Average experience
+R0253,Karan Malik,karan.malik13@gmail.com,62,Female,Jaipur,Rajasthan,2026-09-09,Tablet,Marketplace,6,4,3,4,11682,3-6L,"Flipkart, Meesho",,Yes,Excellent service
+R0389,Sanjay Gupta,sanjay.gupta52@yahoo.com,38,Female,lucknow,Uttar Pradesh,05-30-26,smartphone,Marketplace,2,2,1,3,37282,10-20L,"Croma, Reliance Digital, Meesho",,Yes,Too expensive
+R0411,Rohit Nair,rohit.nair20outlook.com,50,Other,Saharanpur,Uttar Pradesh,23/07/2026,Tablet,App,5,8,3,5,25030,20L+,"Flipkart, Meesho, Croma",R0322,Y,Value for money
+R0063,Rohit Yadav,rohit.yadav69@yahoo.com,26,Other,Chennai,Tamil Nadu,02/03/2026,laptop,Online,4,7,1,,30843,20L+,"Tata Cliq, Reliance Digital, Flipkart",,Yes,Excellent service
+R0214,ANJALI GUPTA,anjali.gupta56outlook.com,23,Male,Bangalore,Karnataka,2026-05-13,Smartphone,Store,4,9,4,4,45838,10-20L,"Croma, Tata Cliq, Meesho",R0102,No,Battery issues
+R0382,ANJALI REDDY,anjali.reddy97@outlook.com,25,Female,Delhi,Delhi,17-Sep-2026,Tablet,Online,2,3,2,1,6433,20L+,"Croma, Flipkart, Meesho",,No,Packaging damaged
+R0158,Suresh Chopra,suresh.chopra18@gmail.com,45,Female,Mumbai,Maharashtra,05-30-26,Headphones,Marketplace,5,7,5,2,46101,3-6L,,,Yes,Average experience
+R0060,Suresh Yadav,suresh.yadav1@yahoo.com,29,Female,Mumbay,Maharashtra,15/06/2026,Headphones,App,5,10,3,5,47874,20L+,,,No,
+R0164,Nikhil Iyer,nikhil.iyer90@yahoo.com,23,Other,Chennai,Tamil Nadu,2026-03-09,Speaker,Marketplace,5,10,4,2,15166,3-6L,"Croma, Reliance Digital",R0080,Yes,
+R0409,Sanjay Khan,sanjay.khan42@outlook.com,43,female,Saharanpur,Uttar Pradesh,18-Jan-2026,Tablet,Online,2,5,2,4,4686,<3L,Flipkart,,Yes,Too expensive
+R0277,Divya Gupta,divya.gupta84@yahoo.com,29,Other,Lucknow,Uttar Pradesh,02-24-26,Tablet,Store,3,3,4,2,21750,6-10L,Tata Cliq,,No,Support team was unhelpful
+R0338,Nikhil Chopra,nikhil.chopra9@gmail.com,18,Male,Kolkata,West Bengal,03-18-26,Speaker,Online,3,4,5,4,22194,<3L,,R0097,No,Average experience
+R0438,Neha Malik,neha.malik53@outlook.com,47,Other,Pune,Maharashtra,16-Sep-2026,Headphones,App,5,7,1,2,11146,20L+,"Meesho, Amazon, Croma",,Yes,Packaging damaged
+R0187,Kavya Iyer,kavya.iyer83@outlook.com,47,Other,Bengaluru,Karnataka,03-Jan-2026,Speaker,Store,5,8,5,4,22696,<3L,"Amazon, Flipkart, Meesho",R0075,maybe,"Great product, fast delivery"
+R0342,Sanjay Joshi,sanjay.joshi48@gmail.com,29,Other,Kolkata,West Bengal,2026-02-23,Laptop,Store,4,9,2,1,27997,<3L,,,No,
+R0450,ISHA YADAV,isha.yadav12@outlook.com,24,Male,Lucknow,Uttar Pradesh,06-09-26,Laptop,Online,5,7,1,5,762,<3L,"Amazon, Reliance Digital, Croma",R0380,No,Too expensive
+R0122,Rahul Nair,rahul.nair55@gmail.com,62,Male,lucknow,Uttar Pradesh,06-Jul-2026,speaker,Marketplace,4,9,3,3,9301,6-10L,"Reliance Digital, Meesho, Croma",R0032,maybe,Excellent service
+R0427,Meera Gupta,meera.gupta56@yahoo.com,21,Male,Lucknow,Uttar Pradesh,02-25-26,Smartphone,App,5,15,1,1,56020,<3L,"Amazon, Tata Cliq",R0072,No,Support team was unhelpful
+R0451,Swati Chopra,swati.chopra74@outlook.com,33,Male,Chennai,Tamil Nadu,25-Sep-2026,Smart Watch,Store,5,7,1,4,14328,20L+,"Flipkart, Tata Cliq, Croma",,No,Support team was unhelpful
+R0366,Vikram Chopra,vikram.chopra32@yahoo.com,55,M,bengaluru ,Karnataka,02-15-26,Headphones,App,3,4,1,2,51100,<3L,"Croma, Reliance Digital",,Yes,Support team was unhelpful
+R0121,Rohit Patel,rohit.patel83@outlook.com,,Male,Pune,Maharashtra,04-19-26,Tablet,App,4,7,2,1,12385,20L+,,R0024,No,
+R0486,Anjali Yadav,anjali.yadav29@gmail.com,58,Other,Pune,Maharashtra,05-18-26,Smartphone,App,5,10,4,2,17587,<3L,"Flipkart, Tata Cliq",,No,Excellent service
+R0039,Meera Nair,meera.nair43@gmail.com,51,Other,Jaipur,Rajasthan,23/06/2026,Tablet,Store,1,1,3,3,48169,3-6L,Amazon,R0008,Yes,Battery issues
+R0300,MEERA DAS,meera.das72@yahoo.com,35,Male,Lakhnau,Uttar Pradesh,2026-07-24,Smart Watch,App,3,5,4,4,56118,<3L,"Tata Cliq, Amazon",,Y,Value for money
+R0168,Swati Malik,swati.malik83@yahoo.com,60,Other,Kolkata,West Bengal,13/02/2026,Tablet,Marketplace,4,6,5,2,30279,20L+,"Tata Cliq, Reliance Digital, Meesho",,No,Value for money
+R0219,Arjun Khan,arjun.khan65@gmail.com,33,Other,Delhi,Delhi,24-Jun-2026,smart watch,App,5,10,2,2,49862,20L+,"Flipkart, Meesho, Reliance Digital",R0096,No,Packaging damaged
+R0488,Neha Patel,neha.patel12@yahoo.com,23,Female,Delhi,Delhi,21-Jul-2026,Headphones,Store,5,15,1,2,48271,3-6L,"Tata Cliq, Flipkart",R0056,No,Excellent service
+R0088,Harsh Iyer,harsh.iyer53@gmail.com,64,Other,pune,Maharashtra,2026-03-19,Speaker,Online,5,8,3,1,50237,10-20L,"Amazon, Flipkart",R0045,Yes,Packaging damaged
+R0211,Aarav Reddy,aarav.reddy28@gmail.com,59,Female,Delhi,Delhi,16/06/2026,Headphones,Online,4,8,1,5,39971,10-20L,,,No,Battery issues
+R0110,Arjun Nair,arjun.nair52@yahoo.com,64,F,Lucknow,Uttar Pradesh,2026-04-04,Smart Watch,Marketplace,2,3,4,2,7909,3-6L,,,Yes,Delivery was late
+R0315,Sanjay Yadav,sanjay.yadav53@outlook.com,31,Male,Mumbai,Maharashtra,03-Jan-2026,Headphones,Store,1,0,5,4,5000000,3-6L,"Tata Cliq, Croma, Meesho",,Yes,Delivery was late
+R0291,Swati Gupta,swati.gupta45@gmail.com,62,Other,Jaipur,Rajasthan,13/07/2026,Tablet,Online,4,6,3,3,1561,6-10L,"Tata Cliq, Amazon",,No,
+R0296,ANJALI SINGH,anjali.singh44@yahoo.com,18,Other,Lucknow,Uttar Pradesh,2026-01-17,Tablet,Online,5,10,2,5,49107,6-10L,,,Yes,Average experience
+R0435,Priya Malik,priya.malik2@gmail.com,22,Other,Kolkata,West Bengal,08/06/2026,Headphones,Online,3,4,1,5,14832,20L+,"Amazon, Reliance Digital",R0365,maybe,Will buy again
+R0441,Pooja Yadav,pooja.yadav11@gmail.com,31,Male,Saharanpur ,Uttar Pradesh,2026-03-21,Laptop,Online,6,4,4,2,,<3L,"Croma, Meesho",,Yes,Excellent service
+R0360,Anjali Reddy,anjali.reddy49@yahoo.com,55,Other,Bengaluru,Karnataka,25-Sep-2026,Smart Watch,Store,5,9,4,,5000000,<3L,"Flipkart, Croma",,Yes,Value for money
+R0375,Kavya Iyer,kavya.iyer9@yahoo.com,47,Male,Chennai,Tamil Nadu,23-Sep-2026,Tablet,Store,4,7,1,2,30478,<3L,,,No,Support team was unhelpful
+R0015,Manish Khan,manish.khan97@gmail.com,46,Female,chennai,Tamil Nadu,19-Aug-2026,Tablet,Marketplace,Five,10,2,3,29327,<3L,"Flipkart, Croma",,No,Will buy again
+R0096,Tanvi Gupta,tanvi.gupta41@yahoo.com,46,male,Bengaluru,Karnataka,2026-05-31,Headphones,Store,1,0,4,2,48471,<3L,,,No,Average experience
+R0299,Rahul Chopra,rahul.chopra36@yahoo.com,30,Male,Saharanpur,Uttar Pradesh,2026-09-13,tablet,App,2,4,5,4,15994,20L+,,R0232,No,"Great product, fast delivery"
+R0336,Harsh Joshi,harsh.joshi42@outlook.com,44,Female,Lucknow,Uttar Pradesh,2026-03-19,Smartphone,App,3,5,2,5,52581,10-20L,"Croma, Flipkart, Meesho",,No,Excellent service
+R0290,Kavya Joshi,kavya.joshi2@outlook.com,62,Other,Chennai,Tamil Nadu,07-01-26,Laptop,Online,5,10,5,,9977,6-10L,"Amazon, Flipkart",,No,Support team was unhelpful
+R0444,Pooja Malik,,32,Male,Delhi,Delhi,05-11-26,Laptop,Marketplace,4,9,2,4,647,10-20L,,,Yes,Battery issues
+R0227,Arjun Mehta,arjun.mehta35@outlook.com,22,Other,jaipur,Rajasthan,2026-04-30,Smartphone,Store,4,,5,2,20463,20L+,"Reliance Digital, Amazon, Flipkart",,Yes,Will buy again
+R0102,Manish Khan,,61,Female,Mumbay,Maharashtra,09-08-26,headphones,Store,1,-1,3,1,19182,<3L,"Amazon, Flipkart, Tata Cliq",,Yes,
+R0111,Sanjay Reddy,sanjay.reddy67@outlook.com,63,Other,New Delhi,Delhi,25-Apr-2026,Smartphone,Marketplace,5,10,2,4,23159/-,10-20L,Tata Cliq,,Yes,"Great product, fast delivery"
+R0352,Divya Sharma,divya.sharma44@outlook.com,56,Female,Bengaluru,Karnataka,2026-07-15,Smart Watch,Online,5,7,2,3,47790,<3L,"Amazon, Flipkart, Croma",,No,Average experience
+R0235,Deepak Nair,deepak.nair59gmail.com,57,Male,saharanpur,Uttar Pradesh,2026-03-25,Speaker,Store,3,5,2,4,41389,3-6L,Reliance Digital,,Y,Packaging damaged
+R0431,Rohit Nair,rohit.nair20@yahoo.com,21,Female,Chennai,Tamil Nadu,05-11-26,Laptop,Store,3,7,4,3,11420,20L+,,R0224,N,Delivery was late
+R0090,Tanvi Patel,tanvi.patel92@gmail.com,20,Female,Hyderabad,Telangana,2026-03-17,Tablet,Online,3,5,3,3,54245,3-6L,,,No,Excellent service
+R0241,Aarav Nair,,26,Male,DELHI ,Delhi,07-20-26,Smart Watch,Online,2,3,3,,30091,6-10L,,R0099,Yes,Delivery was late
+R0426,Deepak Mehta,deepak.mehta77@outlook.com,25,Male,Bangalore,Karnataka,07/05/2026,Speaker,Marketplace,6,7,3,2,26165,10-20L,"Tata Cliq, Reliance Digital",,No,Support team was unhelpful
+R0062,Vikram Mehta,vikram.mehta93@gmail.com,47,Male,Jaipur,Rajasthan,25-Aug-2026,Speaker,Store,4,9,5,1,3468,10-20L,"Meesho, Amazon",,Yes,Delivery was late
+R0464,Priya Malik,priya.malik34@outlook.com,43,Other,Mumbai,Maharashtra,2026-03-05,Laptop,Marketplace,3,7,,2,34294,3-6L,"Meesho, Flipkart, Amazon",,No,Battery issues
+R0490,Anjali Singh,,63,Female,Calcutta,West Bengal,24-May-2026,Headphones,App,3,5,2,5,8947,6-10L,,,Yes,Packaging damaged
+R0282,  karan chopra ,karan.chopra45@yahoo.com,thirty,Male,DELHI ,Delhi,2026-02-26,headphones,Marketplace,4,6,2,5,28095,3-6L,Flipkart,,Yes,Support team was unhelpful
+R0028,Rohit Khan,rohit.khan89@yahoo.com,999,Male,mumbai,Maharashtra,16/08/2026,Headphones,Online,4,5,3,3,25065,10-20L,Flipkart,,No,Average experience
+R0201,Arjun Patel,arjun.patel47@yahoo.com,57,Other,Chennai,Tamil Nadu,31/01/2026,Speaker,App,5,10,4,,21383,<3L,Reliance Digital,R0039,No,Battery issues
+R0053,Arjun Gupta,arjun.gupta21@yahoo.com,24,Other,Bengaluru,Karnataka,03/08/2026,Headphones,Store,1,2,2,4,34233,10-20L,"Croma, Reliance Digital, Amazon",,Yes,Packaging damaged
+R0124,Kavya Reddy,kavya.reddy48@gmail.com,32,Other,Delhi,Delhi,02-Feb-2026,Headphones,Marketplace,5,8,4,4,58273,<3L,,R0027,No,Delivery was late
+R0407,Suresh Iyer,suresh.iyer32@gmail.com,35,Female,Pune,Maharashtra,01-31-26,Headphones,Marketplace,4,7,5,2,51859,6-10L,"Reliance Digital, Croma",,Yes,
+R0337,Priya Malik,priya.malik96@outlook.com,49,Male,Jaipur,Rajasthan,07/09/2026,Headphones,Online,2,5,4,3,47682,6-10L,"Tata Cliq, Croma",,Yes,Support team was unhelpful
+R0196,Kavya Patel,kavya.patel86outlook.com,55,Female,hyderabad,Telangana,07-02-26,Tablet,App,3,6,2,4,7580,<3L,"Reliance Digital, Meesho",,Yes,
+R0233,  suresh verma ,suresh.verma50@yahoo.com,44,Other,Hyderabad,Telangana,01-06-26,Tablet,Online,3,7,,1,30258,20L+,"Tata Cliq, Flipkart",,Yes,Delivery was late
+R0343,Swati Reddy,swati.reddy9@gmail.com,18,Other,Chennai,Tamil Nadu,2026-08-02,Laptop,App,5,10,1,2,29558,<3L,"Tata Cliq, Flipkart",,No,Support team was unhelpful
+R0262,Deepak Nair,deepak.nair62@outlook.com,35,Female,Kolkata,West Bengal,04-03-26,Tablet,Store,4,5,1,3,4661,20L+,Reliance Digital,,Yes,Packaging damaged
+R0416,Meera Verma,meera.verma58@outlook.com,34,Male,Hyderabad,Telangana,07-03-26,Smartphone,App,5,9,5,2,39742,6-10L,Tata Cliq,,Yes,Value for money
+R0317,Deepak Malik,deepak.malik54@outlook.com,62,F,Hyderabad,Telangana,2026-06-27,Tablet,Marketplace,5,11,2,3,47904,<3L,,,Yes,Excellent service
+R0073,Suresh Reddy,suresh.reddy49@yahoo.com,65,Female,Lakhnau,Uttar Pradesh,05-May-2026,Headphones,Online,4,8,5,2,39312,20L+,Meesho,,Yes,Excellent service
+R0167,Ritu Mehta,ritu.mehta1@outlook.com,26,Female,jaipur,Rajasthan,2026-07-09,Smartphone,App,5,7,1,,28792,20L+,"Meesho, Croma, Reliance Digital",,No,Packaging damaged
+R0017,Rahul Reddy,rahul.reddy61@gmail.com,35,Male,jaipur,Rajasthan,2026-05-10,Headphones,Store,5,10,1,1,49929,<3L,Flipkart,,Yes,Average experience
+R0293,Divya Iyer,divya.iyer87@gmail.com,50,Male,Pune,Maharashtra,06-07-26,Smartphone,Online,3,5,2,3,55600,20L+,"Croma, Flipkart",R0213,No,Value for money
+R0080,Tanvi Chopra,tanvi.chopra84@gmail.com,26,Male,Mumbai,Maharashtra,31-Jan-2026,Laptop,Store,5,10,3,2,50403,10-20L,"Flipkart, Tata Cliq, Croma",,Y,Packaging damaged
+R0195,Arjun Gupta,arjun.gupta61@outlook.com,44,Male,Chennai,Tamil Nadu,2026-04-07,Speaker,Marketplace,3,6,1,4,29208,20L+,,,Yes,Support team was unhelpful
+R0070,VIKRAM IYER,vikram.iyer87@outlook.com,22,Other,Jaipur,Rajasthan,05-04-26,Speaker,Online,3,7,5,3,4019,<3L,"Flipkart, Amazon, Croma",R0018,No,Will buy again
+R0248,HARSH MALIK,harsh.malik8@gmail.com,999,Female,Mumbai,Maharashtra,2026-05-05,laptop,Store,3,15,4,2,42576,<3L,Meesho,,No,Will buy again
+R0137,Karan Singh,karan.singh99@yahoo.com,150,Male,jaipur,Rajasthan,2026-01-28,Smartphone,App,2,4,5,2,6025,10-20L,"Flipkart, Meesho",,No,Excellent service
+R0322,Ritu Sharma,ritu.sharma57@yahoo.com,37,Female,Mumbai,Maharashtra,16/05/2026,Smartphone,App,4,7,4,5,14776,10-20L,,R0005,Yes,Battery issues
+R0288,Isha Sharma,isha.sharma29@yahoo.com,NA,Other,bengaluru ,Karnataka,2026-07-24,Smartphone,App,3,4,4,4,42605/-,20L+,"Amazon, Meesho, Flipkart",,Yes,Packaging damaged
+R0186,POOJA SINGH,pooja.singh46@yahoo.com,32,Male,Lakhnau,Uttar Pradesh,25/01/2026,Tablet,Store,4,7,5,,12445,3-6L,Flipkart,,Yes,Delivery was late
+R0458,Priya Das,priya.das59@gmail.com,30,Male,Bengaluru,Karnataka,09-Mar-2026,Tablet,Store,6,8,1,1,48062,3-6L,"Meesho, Croma",,No,Support team was unhelpful
+R0134,Amit Joshi,amit.joshi54@outlook.com,39,Female,Hyderabad,Telangana,06/08/2026,Smart Watch,App,3,,4,2,37947,3-6L,Amazon,,No,Value for money
+R0165,Nikhil Iyer,nikhil.iyer52@outlook.com,38,Other,Mumbai,Maharashtra,06-04-26,Laptop,Store,4,5,4,4,4829,6-10L,Meesho,,No,Packaging damaged
+R0406,Meera Gupta,meera.gupta72@yahoo.com,-5,Female,Pune,Maharashtra,01-Sep-2026,Speaker,Store,4,7,2,3,51722,20L+,Meesho,,Yes,Value for money
+R0246,Neha Gupta,neha.gupta88@outlook.com,19,Male,mumbai,Maharashtra,22/06/2026,speaker,Store,4,5,2,1,,20L+,,R0226,No,Will buy again
+R0180,Karan Das,karan.das31@outlook.com,32,Male,Saharanpur,Uttar Pradesh,2026-04-27,smart watch,Store,5,9,1,4,38844,10-20L,,,No,Support team was unhelpful
+R0093,Swati Sharma,swati.sharma23@gmail.com,54,Other,pune,Maharashtra,01/07/2026,Speaker,App,5,-1,5,1,46601,6-10L,Tata Cliq,,Yes,Excellent service
+R0091,Rohit Nair,rohit.nair26@outlook.com,34,Male,Hyderabad,Telangana,2026-01-12,Smartphone,App,5,7,1,1,30711,<3L,Tata Cliq,,No,Packaging damaged
+R0234,Deepak Khan,deepak.khan61@yahoo.com,NA,Female,Chennai,Tamil Nadu,16/03/2026,Headphones,Online,5,9,5,5,43601,3-6L,,,Yes,Too expensive
+R0341,Arjun Iyer,arjun.iyer48@gmail.com,NA,Male,Saharanpur ,Uttar Pradesh,04-08-26,Laptop,Marketplace,4,9,3,5,5000000,<3L,"Croma, Amazon",,No,Battery issues
+R0045,Nikhil Joshi,nikhil.joshi28@gmail.com,57,Other,Kolkata,West Bengal,10-Jan-2026,tablet,Marketplace,1,-1,1,3,16073,6-10L,,,Yes,Value for money
+R0362,Priya Reddy,priya.reddy26@gmail.com,30,Male,Mumbai,Maharashtra,02-12-26,Tablet,Marketplace,4,8,3,5,1129,20L+,"Amazon, Reliance Digital, Flipkart",,No,"Great product, fast delivery"
+R0266,SNEHA MEHTA,sneha.mehta7@gmail.com,150,Male,Saharanpur,Uttar Pradesh,2026-05-19,Headphones,Marketplace,4,7,4,5,8860,6-10L,,R0200,Yes,
+R0207,Karan Chopra,karan.chopra27@outlook.com,36,Other,Lucknow,Uttar Pradesh,03-08-26,Speaker,Store,4,8,4,2,27273,3-6L,,R0073,No,Battery issues
+R0242,Rahul Chopra,rahul.chopra62@outlook.com,43,Male,Jaipur,Rajasthan,03-08-26,Laptop,Store,2,1,3,4,54101,10-20L,Tata Cliq,R0232,No,Average experience
+R0393,Vikram Reddy,vikram.reddy49@gmail.com,29,MALE,Lucknow,Uttar Pradesh,01-29-26,Smartphone,Store,3,4,2,2,22512,10-20L,,,No,Delivery was late
+R0085,Sanjay Das,sanjay.das36@gmail.com,44,Male,Chennai,Tamil Nadu,12/02/2026,Laptop,App,4,8,4,5,42069/-,<3L,"Meesho, Reliance Digital",R0066,Yes,"Great product, fast delivery"
+R0273,  rahul malik ,rahul.malik37@yahoo.com,29,Female,Delhi,Delhi,14/06/2026,Laptop,App,1,0,4,3,22407,6-10L,,R0052,Yes,
+R0013,Swati Malik,swati.malik90@yahoo.com,50,Male,Lucknow,Uttar Pradesh,06-17-26,Smart Watch,Marketplace,3,6,2,5,37796,6-10L,"Tata Cliq, Amazon, Croma",,No,Value for money
+R0177,Sneha Joshi,sneha.joshi95@outlook.com,57,Male,Hyderabad,Telangana,07-Aug-2026,Speaker,Store,3,4,3,2,50584,<3L,Croma,,Yes,Delivery was late
+R0238,Deepak Yadav,deepak.yadav51@gmail.com,31,Female,delhi,Delhi,20/08/2026,Tablet,Store,3,4,3,3,36580,<3L,Amazon,R0228,No,Excellent service
+R0284,Suresh Singh,suresh.singh96outlook.com,43,MALE,Poona,Maharashtra,20/07/2026,Speaker,Marketplace,4,6,4,3,,10-20L,"Flipkart, Amazon, Croma",,No,Value for money
+R0368,Rahul Joshi,rahul.joshi74@yahoo.com,62,Male,Chennai,Tamil Nadu,01-11-26,Smartphone,Store,4,8,,4,10362,6-10L,Tata Cliq,R0200,No,Too expensive
+R0163,Manish Verma,,52,Male,Pune,Maharashtra,19/05/2026,Smartphone,App,3,5,5,3,35927,10-20L,,,Yes,"Great product, fast delivery"
+R0082,Rohit Yadav,rohit.yadav81@yahoo.com,150,Male,Saharanpur,Uttar Pradesh,01-27-26,smart watch,Online,2,2,1,1,14486,10-20L,,,Yes,Average experience
+R0251,Suresh Malik,suresh.malik40@outlook.com,43,Male,Jaipur,Rajasthan,07-16-26,Smart Watch,Online,5,9,1,4,,3-6L,Reliance Digital,,No,Will buy again
+R0135,Pooja Patel,pooja.patel28@yahoo.com,54,Other,Chennai,Tamil Nadu,2026-03-25,Smartphone,Marketplace,1,0,3,3,24156,6-10L,"Croma, Amazon",,No,Delivery was late
+R0213,Vikram Yadav,vikram.yadav6outlook.com,33,Female,Lucknow,Uttar Pradesh,2026-01-25,Smartphone,Marketplace,4,7,5,3,23795,6-10L,,R0109,Yes,Delivery was late
+R0126,  deepak nair ,deepak.nair22@yahoo.com,26,Other,Bengaluru,Karnataka,2026-03-17,Smart Watch,Online,4,5,,1,14694,10-20L,"Reliance Digital, Flipkart, Tata Cliq",,No,Average experience
+R0483,Ritu Nair,ritu.nair5@yahoo.com,36,Other,Chennai,Tamil Nadu,23/03/2026,Speaker,Store,5,7,5,4,47632,20L+,"Tata Cliq, Croma",,Yes,Battery issues
+R0047,Karan Malik,karan.malik33@gmail.com,38,MALE,DELHI ,Delhi,07-23-26,Headphones,App,5,10,1,3,18405,<3L,"Reliance Digital, Meesho",,No,Packaging damaged
+R0005,Isha Iyer,isha.iyer47@yahoo.com,18,Male,Chennai,Tamil Nadu,2026-01-10,Smartphone,Store,4,8,5,1,6113,10-20L,,,Yes,Support team was unhelpful
+R0452,Amit Das,amit.das17@outlook.com,,Other,BLR,Karnataka,03/03/2026,Smartphone,Online,2,5,4,2,14795,6-10L,,R0128,Yes,
+R0194,  karan patel ,karan.patel47@outlook.com,52,female,Bangalore,Karnataka,04-20-26,Speaker,Online,1,0,2,3,25378,10-20L,Tata Cliq,,Yes,Packaging damaged
+R0031,  harsh gupta ,harsh.gupta69@gmail.com,53,Other,Jaipur,Rajasthan,08-Jan-2026,Speaker,App,3,6,5,4,54397,6-10L,,,Yes,Excellent service
+R0048,Pooja Patel,pooja.patel58@gmail.com,56,Female,Kolkata,West Bengal,16-Aug-2026,Tablet,Marketplace,4,6,3,1,5417/-,10-20L,"Tata Cliq, Flipkart",,Yes,Support team was unhelpful
+R0320,Isha Gupta,,41,male,Bombay,Maharashtra,19/01/2026,Smartphone,Online,4,6,4,1,,6-10L,"Croma, Amazon, Tata Cliq",,No,Average experience
+R0157,Rohit Nair,rohit.nair7@gmail.com,18,Male,Hydrabad,Telangana,23/05/2026,Laptop,Online,3,7,5,5,20058,6-10L,,R0090,Yes,Delivery was late
+R0321,AMIT IYER,amit.iyer94@outlook.com,31,Male,Hyderabad,Telangana,08-11-26,Tablet,Marketplace,5,9,3,5,30876,10-20L,"Flipkart, Reliance Digital",,No,Value for money
+R0457,Rohit Reddy,rohit.reddy61@outlook.com,57,Other,Pune,Maharashtra,2026-05-04,Speaker,Online,2,11,4,2,52648,10-20L,"Amazon, Meesho",R0086,Yes,Average experience
+R0331,Nikhil Patel,nikhil.patel68@outlook.com,42,Female,Hyderabad,Telangana,06-28-26,Laptop,App,4,6,4,4,52715,10-20L,"Tata Cliq, Reliance Digital",,No,Delivery was late
+R0474,Priya Khan,priya.khan51@outlook.com,62,Female,Hyderabad,Telangana,31/08/2026,Smartphone,Marketplace,1,3,2,2,20783,20L+,Tata Cliq,R0392,Yes,Will buy again
+R0311,SANJAY CHOPRA,sanjay.chopra15@gmail.com,37,Male,Bengaluru,Karnataka,06/09/2026,Tablet,Online,4,5,2,2,7289,10-20L,,R0310,No,Packaging damaged
+R0103,Nikhil Yadav,nikhil.yadav28@yahoo.com,45,Other,Lucknow,Uttar Pradesh,24-Aug-2026,Smart Watch,Online,5,9,1,5,43908,6-10L,"Croma, Amazon",R0067,No,Delivery was late
+R0065,MANISH REDDY,manish.reddy31@gmail.com,44,M,Jaipur,Rajasthan,04-05-26,Smartphone,Marketplace,2,4,4,5,35233,3-6L,"Flipkart, Croma, Meesho",R0019,No,
+R0033,Deepak Gupta,deepak.gupta19@outlook.com,150,Male,Bombay,Maharashtra,30-Apr-2026,Tablet,App,Five,4,,1,43823,<3L,Amazon,R0010,No,Value for money
+R0429,Meera Das,meera.das70@yahoo.com,46,Female,Kolkata,West Bengal,2026-07-14,Smart Watch,App,2,4,3,1,33204,20L+,"Reliance Digital, Tata Cliq, Flipkart",R0345,No,Support team was unhelpful
+R0098,Priya Patel,priya.patel97@outlook.com,47,M,Kolkata,West Bengal,01/02/2026,Speaker,App,3,5,5,4,50075,20L+,Tata Cliq,,Yes,Packaging damaged
+R0069,Rohit Yadav,rohit.yadav82@gmail.com,23,Male,Delhi,Delhi,2026-09-01,Smart Watch,Marketplace,4,8,,5,56727,<3L,,,Yes,Value for money
+R0424,Ritu Mehta,ritu.mehta9@outlook.com,49,Male,Lucknow,Uttar Pradesh,01-16-26,Speaker,Online,5,10,3,3,26273,6-10L,"Meesho, Croma, Tata Cliq",R0398,No,Battery issues
+R0055,Vikram Reddy,vikram.reddy65@outlook.com,38,Other,Hyderabad,Telangana,03-Jun-2026,Tablet,App,2,5,4,1,24640,6-10L,,,No,Average experience
+R0418,Rohit Patel,rohit.patel90@outlook.com,25,Female,Kolkata,West Bengal,2026-07-26,Laptop,App,4,7,4,5,39145,10-20L,,R0199,No,"Great product, fast delivery"
+R0414,Kavya Singh,,25,Female,Delhi,Delhi,22-Aug-2026,Smartphone,Store,2,2,2,1,26553,10-20L,,,Yes,Excellent service
+R0279,Anjali Patel,anjali.patel3@gmail.com,48,Male,Saharanpur,Uttar Pradesh,2026-05-17,Tablet,Marketplace,2,1,2,1,15200,<3L,Reliance Digital,R0152,No,Support team was unhelpful
+R0363,Sanjay Joshi,sanjay.joshi64@gmail.com,29,Other,Mumbai,Maharashtra,09-18-26,Headphones,Online,4,7,4,3,42304,20L+,Flipkart,R0222,Yes,Value for money
+R0089,Suresh Verma,suresh.verma34@yahoo.com,54,Female,Hyderabad,Telangana,02-May-2026,Speaker,App,1,0,3,4,18322,3-6L,,,Yes,Support team was unhelpful
+R0417,RAHUL JOSHI,rahul.joshi29@outlook.com,38,Female,Mumbai,Maharashtra,07-22-26,Speaker,Online,4,7,2,4,₹10704,3-6L,,,Yes,Excellent service
+R0413,Sneha Malik,sneha.malik39@yahoo.com,,Other,Delhi,Delhi,2026-05-21,Laptop,Online,4,5,1,,14610,3-6L,"Meesho, Croma, Amazon",,No,Packaging damaged
+R0112,Arjun Iyer,arjun.iyer16@yahoo.com,46,Male,Hyderabad,Telangana,17-Aug-2026,Smartphone,Marketplace,2,4,4,1,37012,20L+,,,Yes,Average experience
+R0270,Pooja Reddy,pooja.reddy85@yahoo.com,29,Other,Jaipur,Rajasthan,02-25-26,Smart Watch,Online,4,7,3,2,7752,3-6L,"Amazon, Flipkart",R0182,No,Packaging damaged
+R0036,Ritu Patel,ritu.patel29gmail.com,24,Other,Saharanpur,Uttar Pradesh,03-21-26,Headphones,Online,4,6,3,5,15321,10-20L,,,maybe,"Great product, fast delivery"
+R0108,Nikhil Verma,nikhil.verma90@gmail.com,46,Other,jaipur,Rajasthan,05-10-26,Smartphone,App,3,7,4,1,43916,20L+,"Tata Cliq, Meesho",R0088,Yes,Packaging damaged
+R0148,  vikram singh ,vikram.singh11@yahoo.com,23,Other,Saharanpur,Uttar Pradesh,24-Jul-2026,laptop,Store,4,5,4,5,13483,10-20L,"Meesho, Tata Cliq, Flipkart",,Yes,Value for money
+R0189,Kavya Chopra,kavya.chopra1@yahoo.com,39,Female,Chennai,Tamil Nadu,2026-07-12,Smart Watch,Store,1,3,5,4,47046,20L+,Flipkart,,Yes,Packaging damaged
+R0086,Swati Patel,swati.patel43@yahoo.com,41,Female,Bangalore,Karnataka,2026-03-02,Speaker,Online,2,11,4,4,33974,6-10L,,R0009,No,Average experience
+R0361,Sanjay Verma,sanjay.verma58@outlook.com,50,Male,Saharanpur,Uttar Pradesh,2026-02-10,Headphones,Store,1,3,2,2,45696,10-20L,Amazon,,No,Too expensive
+R0379,Nikhil Khan,nikhil.khan82@outlook.com,21,Female,Jaipur,Rajasthan,22-May-2026,Headphones,Online,4,7,1,1,47233,10-20L,Tata Cliq,R0342,No,Value for money
+R0264,Ritu Mehta,ritu.mehta25@gmail.com,31,male,Madras,Tamil Nadu,2026-05-02,Tablet,Store,4,5,5,3,18679,3-6L,"Amazon, Tata Cliq, Croma",R0111,No,Packaging damaged
+R0434,Meera Iyer,meera.iyer32@gmail.com,46,Female,Bangalore,Karnataka,06-04-26,headphones,Marketplace,Five,8,4,4,47219,10-20L,"Flipkart, Reliance Digital",R0117,Yes,Packaging damaged
+R0188,  rohit mehta ,rohit.mehta86@yahoo.com,30,Other,Jaipur,Rajasthan,2026-09-19,Smart Watch,App,4,9,4,3,1298,6-10L,"Croma, Meesho",,No,Too expensive
+R0067,Meera Patel,,30,Female,Bengaluru,Karnataka,05-06-26,Headphones,Marketplace,3,6,4,4,11525,6-10L,Flipkart,,No,Support team was unhelpful
+R0004,Sneha Singh,sneha.singh77@yahoo.com,61,Other,Bengaluru,Karnataka,07-17-26,Headphones,Online,4,5,1,5,49709,6-10L,"Amazon, Croma",,No,Support team was unhelpful
+R0383,Aarav Joshi,aarav.joshi83@gmail.com,62,Male,Pune,Maharashtra,04-26-26,Smartphone,Marketplace,5,8,4,4,36959,20L+,Reliance Digital,R0152,Yes,Too expensive
+R0077,Suresh Nair,suresh.nair87@outlook.com,55,Other,Jaipur,Rajasthan,23/08/2026,Tablet,Online,2,3,2,3,8224,3-6L,"Amazon, Flipkart",,No,Support team was unhelpful
+R0212,POOJA MALIK,pooja.malik63@yahoo.com,26,Female,Hyderabad,Telangana,08/07/2026,Headphones,Marketplace,3,3,1,4,53649,6-10L,Reliance Digital,,No,Delivery was late
+R0330,Manish Yadav,manish.yadav91@outlook.com,63,Other,Bombay,Maharashtra,2026-08-10,Speaker,Online,4,5,1,,₹9470,20L+,"Flipkart, Meesho, Croma",R0286,No,Support team was unhelpful
+R0150,Tanvi Mehta,tanvi.mehta7@yahoo.com,34,F,Delhi,Delhi,13-Apr-2026,Smartphone,Marketplace,2,3,,3,57141,<3L,,,No,
+R0369,  priya iyer ,priya.iyer30outlook.com,52,Male,BLR,Karnataka,17-Jun-2026,Smart Watch,App,3,3,2,2,51116,6-10L,,R0156,Yes,Excellent service
+R0226,SNEHA VERMA,sneha.verma20@yahoo.com,28,Other,Chennai,Tamil Nadu,2026-05-11,Laptop,Online,6,4,5,3,12392,<3L,,,No,Packaging damaged
+R0404,Arjun Malik,arjun.malik58@gmail.com,thirty,Female,Calcutta,West Bengal,08-26-26,Smart Watch,Online,Five,10,2,3,25499,3-6L,"Croma, Amazon, Reliance Digital",R0385,Yes,Support team was unhelpful
+R0327,Rahul Nair,rahul.nair58@yahoo.com,57,Other,Hyderabad,Telangana,07-Feb-2026,Smart Watch,App,2,1,4,2,48566,3-6L,,,Yes,"Great product, fast delivery"
+R0461,Sanjay Mehta,sanjay.mehta44@gmail.com,65,Male,Mumbai,Maharashtra,26-Mar-2026,Speaker,Online,4.5,-1,1,1,21635,3-6L,,R0006,Yes,Value for money
+R0230,Nikhil Reddy,nikhil.reddy64@yahoo.com,23,Other,pune,Maharashtra,24/04/2026,Speaker,Store,5,9,1,2,54313,10-20L,,R0127,No,Average experience
+R0217,MEERA CHOPRA,meera.chopra89@outlook.com,48,Male,Saharanpur,Uttar Pradesh,17-Apr-2026,Laptop,Store,5,11,2,5,32755,<3L,"Reliance Digital, Croma, Flipkart",R0124,Yes,Too expensive
+R0114,Kavya Sharma,kavya.sharma89@outlook.com,65,Male,Chennai,Tamil Nadu,05/09/2026,Smartphone,Marketplace,1,2,5,5,58348,6-10L,"Reliance Digital, Tata Cliq, Flipkart",R0105,No,Packaging damaged
+R0354,Anjali Yadav,anjali.yadav72@yahoo.com,34,Female,Jaipur,Rajasthan,02-10-26,Headphones,App,4,9,3,4,44704,10-20L,,R0272,Yes,Average experience
+R0484,Arjun Verma,arjun.verma50@yahoo.com,29,Other,Saharanpur,Uttar Pradesh,07-25-26,Laptop,Online,3,7,5,4,18515,10-20L,,R0394,Yes,
+R0256,Neha Nair,neha.nair61@outlook.com,43,Male,Kolkata,West Bengal,06-28-26,Speaker,Marketplace,4,5,3,5,13284,3-6L,,,Yes,Excellent service
+R0074,Arjun Nair,arjun.nair47@outlook.com,55,Other,Kolkata,West Bengal,2026-08-03,Tablet,Online,4,15,1,2,43596,6-10L,Meesho,,Yes,Average experience
+R0252,Amit Nair,amit.nair15@gmail.com,61,Female,Kolkata,West Bengal,2026-03-24,Smart Watch,Online,2,2,5,2,57909,10-20L,Reliance Digital,,No,Battery issues
+R0367,Priya Malik,priya.malik69@yahoo.com,41,Other,Chennai,Tamil Nadu,17-Jan-2026,Smartphone,Online,1,2,5,1,37088,<3L,Tata Cliq,R0171,Yes,Average experience
+R0318,Priya Khan,priya.khan57gmail.com,62,Female,Jaipur,Rajasthan,2026-03-12,Headphones,Store,2,4,,4,₹4296,3-6L,Amazon,,Yes,Value for money
+R0301,Sneha Sharma,sneha.sharma90@gmail.com,22,Other,Lucknow,Uttar Pradesh,14-Jul-2026,Smart Watch,Online,3,7,2,3,56985,3-6L,"Meesho, Reliance Digital, Amazon",,Yes,Average experience
+R0198,  kavya joshi ,kavya.joshi76@yahoo.com,28,Female,Chennai,Tamil Nadu,05-15-26,Headphones,App,4,8,1,1,39196,<3L,Croma,,No,Average experience
+R0197,KAVYA IYER,kavya.iyer70@yahoo.com,30,Other,Kolkata,West Bengal,09-Sep-2026,Tablet,Online,3,6,1,4,58179,<3L,"Reliance Digital, Croma, Meesho",,No,Excellent service
+R0316,Amit Khan,amit.khan69@outlook.com,22,Other,Saharanpur ,Uttar Pradesh,2026-05-28,Tablet,App,5,8,4,5,4212,20L+,,R0266,No,Battery issues
+R0269,Pooja Patel,,18,Male,Pune,Maharashtra,21/07/2026,Smart Watch,Marketplace,4,9,1,3,886,20L+,"Croma, Meesho, Tata Cliq",,yes,"Great product, fast delivery"
+R0267,Meera Mehta,meera.mehta99@yahoo.com,37,Other,Pune,Maharashtra,06-06-26,Smartphone,Online,4,5,2,1,11320,20L+,,,Yes,Battery issues
+R0436,Rohit Singh,rohit.singh19@gmail.com,39,Female,Jaipur,Rajasthan,17/05/2026,smart watch,Store,4,8,1,1,20351,<3L,Flipkart,R0197,No,Average experience
+R0487,Manish Verma,manish.verma67@yahoo.com,63,Other,Chennai,Tamil Nadu,01-14-26,Headphones,Online,3,5,5,3,50044,10-20L,"Croma, Flipkart",,Yes,Value for money
+R0156,Sanjay Reddy,,51,Female,Mumbai,Maharashtra,03-23-26,Tablet,Store,Five,9,2,2,-2000,<3L,"Croma, Meesho, Reliance Digital",R0044,No,
+R0146,Pooja Nair,pooja.nair29@gmail.com,51,Male,New Delhi,Delhi,04-Jan-2026,speaker,App,2,3,5,5,36959,20L+,Amazon,,Yes,Excellent service
+R0052,Karan Iyer,karan.iyer83@yahoo.com,44,Other,Hyderabad,Telangana,12-Sep-2026,Smart Watch,App,4,5,4,1,45628,<3L,Reliance Digital,,No,Excellent service
+R0350,Priya Patel,priya.patel61@outlook.com,34,male,Jaipur,Rajasthan,19-Aug-2026,Smartphone,Store,4,5,4,5,-2000,10-20L,,R0274,Yes,"Great product, fast delivery"
+R0094,Vikram Nair,vikram.nair91@outlook.com,25,Male,Bengaluru,Karnataka,07-Feb-2026,Headphones,App,5,,3,2,10822,10-20L,"Meesho, Croma, Flipkart",,No,Value for money
+R0378,Manish Verma,manish.verma70@outlook.com,48,Male,Hyderabad,Telangana,2026-06-02,Smartphone,App,3,6,3,1,25502,6-10L,,,No,Packaging damaged
+R0285,Rohit Nair,rohit.nair41@gmail.com,20,Male,Hyderabad,Telangana,2026-01-24,Headphones,App,4,8,4,5,13271,6-10L,"Meesho, Croma, Flipkart",,Yes,Will buy again
+R0218,Divya Iyer,divya.iyer91@gmail.com,53,Female,Delhi,Delhi,2026-09-21,Smart Watch,Online,3,4,1,5,40454,<3L,,,Yes,Support team was unhelpful
+R0445,Isha Patel,isha.patel70@outlook.com,33,Female,Mumbai,Maharashtra,18/06/2026,Smartphone,App,5,10,2,4,1855,<3L,Meesho,R0351,No,Support team was unhelpful
+R0325,Ritu Joshi,ritu.joshi32@yahoo.com,51,Male,Chennai,Tamil Nadu,10-Apr-2026,Smart Watch,App,4,7,1,2,29664,10-20L,"Amazon, Croma",R0186,Yes,Will buy again
+R0105,MEERA IYER,meera.iyer61@gmail.com,41,Other,Saharanpur,Uttar Pradesh,2026-08-26,Tablet,Online,3,5,4,,33299,<3L,"Tata Cliq, Croma, Reliance Digital",,Yes,Support team was unhelpful
+R0268,Ritu Gupta,ritu.gupta95@outlook.com,63,Other,Delhi,Delhi,26/06/2026,Speaker,Online,4,9,5,4,11544,20L+,Flipkart,,Yes,Will buy again
+R0018,Aarav Malik,aarav.malik10@outlook.com,54,Other,Lucknow,Uttar Pradesh,23/07/2026,Laptop,Online,4,8,3,5,53291,<3L,,,No,Too expensive
+R0247,Amit Yadav,amit.yadav99@outlook.com,41,Male,Hyderabad,Telangana,30-Jul-2026,Speaker,Store,4.5,0,,,39812,6-10L,"Meesho, Flipkart, Croma",,Yes,
+R0175,Divya Reddy,divya.reddy11@yahoo.com,43,Female,Lucknow,Uttar Pradesh,07-Jul-2026,Speaker,Store,1,0,2,5,3077,10-20L,Croma,,No,Delivery was late
