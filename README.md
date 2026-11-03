@@ -265,23 +265,24 @@ Pct Would Recommend   : SUM(CASE WHEN would_recommend = "Yes" THEN 1 ELSE 0 END)
 ```
 Customer Experience Survey Analytics/
 │
-├── data/                       # Datasets
+├── Data set/                       # Datasets
 │   ├── survey_data_raw.csv     # Raw survey export (500 rows)
 │   └── survey_data_clean.csv   # Cleaned dataset (490 rows)
+│   └── customer_survey_data    # Cleaned dataset (490 rows)
 │
 ├── notebooks/
 │   └── cleaning.ipynb          # Data profiling, cleaning and export
 │
 ├── dashboards/                 # Business Intelligence Dashboards
-│   ├── powerbi/                # Power BI project file (.pbix)
-│   └── tableau/                # Tableau workbook files
+│   ├── Customer Experience Survey/                # Power BI project file (.pbix)
+│   └── Customer Experience Survey Analytics                # Tableau workbook files
 │
 ├── images/                     # Dashboard previews
-│   ├── powerbi.png             # Power BI dashboard screenshot
-│   ├── tableau.png             # Tableau dashboard screenshot
-│   └── looker.png              # Looker Studio dashboard screenshot
+│   ├── powerbi_dashboard.jpg             # Power BI dashboard screenshot
+│   ├── tableau_dashboard.jpg             # Tableau dashboard screenshot
+│   └── looker_dashboard.jpg          # Looker Studio dashboard screenshot
 │
-├── project_brief_final.md      # Project requirements brief
+├── project_brief.md      # Project requirements brief
 ├── LICENSE                     # Project license
 └── README.md                   # Project documentation
 ```
